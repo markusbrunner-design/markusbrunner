@@ -1,0 +1,45 @@
+body {
+    background: #fff url('../img/background.gif') center bottom repeat-y;
+    line-height: 1.7em;
+}
+header, main, footer {
+    opacity: 0.9;
+}
+article {
+    margin-bottom: 2em;
+    padding: 2em;
+}
+header h1 {
+    color: rgba(0,0,50,0.5);
+    font-size: 2em;
+    margin-top: 1em;
+}
+h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+}
+h1::first-letter, h2::first-letter  {
+    color: rgba(0,0,200,0.6);
+}
+p {
+    font-style: italic;
+}
+dt {
+    font-family: serif;
+    text-transform: uppercase;
+    margin-bottom: 0.7em;
+}
+dd {
+    font-size: 0.8em;
+    margin-left: 3em;
+}
+img {
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.2);
+}
+dd:before {
+    content: '_';
+}
+footer {
+    color: rgba(0,0,0,0.5);
+    text-transform: uppercase;
+}
