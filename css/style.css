@@ -18,9 +18,13 @@ article {
     padding: 2em;
 }
 main {
+    padding: 1rem;
+}
+#main {
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
+    padding: 0;
 }
 main nav {
     background: rgba(0,0,200,0.1);
@@ -69,4 +73,5 @@ footer {
     border-top: 1px solid rgba(0,0,200,0.6);
     color: rgba(0,0,0,0.5);
     text-transform: uppercase;
+    padding: 1rem;
 }
