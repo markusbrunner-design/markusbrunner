@@ -1,0 +1,31 @@
+{
+  "name": "markusbrunner",
+  "version": "1.0.0",
+  "description": "MarkusBrunner.de",
+  "main": "index.html",
+  "scripts": {
+    "test": "test",
+    "start": "ws"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/markusbrunner-design/markusbrunner.git"
+  },
+  "keywords": [
+    "Markus",
+    "Brunner",
+    "Erwachen",
+    "Bewusste",
+    "Menschen",
+    "Musik"
+  ],
+  "author": "Markus Brunner",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/markusbrunner-design/markusbrunner/issues"
+  },
+  "homepage": "https://github.com/markusbrunner-design/markusbrunner#readme",
+  "devDependencies": {
+    "local-web-server": "^5.3.0"
+  }
+}

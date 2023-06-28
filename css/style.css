@@ -1,6 +1,14 @@
 body {
-    background: #fff url('../img/background.gif') center bottom repeat-y;
+    background: #fff url('../img/header.jpg');
+    background-size: cover;
+    backdrop-filter: blur(100px);
     line-height: 1.7em;
+}
+button {
+    background: rgba(0,0,200,0.6);
+    border: 1px solid grey;
+    color: #fff;
+    cursor: pointer;
 }
 header, main, footer {
     opacity: 0.9;
@@ -8,6 +16,24 @@ header, main, footer {
 article {
     margin-bottom: 2em;
     padding: 2em;
+}
+main {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+main nav {
+    background: rgba(0,0,200,0.1);
+    padding: 0 3rem 0 0;
+    min-width: 20%;
+}
+#main__dynamic-content {
+    border-left: 1px solid rgba(0,0,200,0.6);
+    padding-left: 3rem;
+}
+header {
+    background-color: rgba(100,255,100,0.1);
+    padding: 1rem;
 }
 header h1 {
     color: rgba(0,0,50,0.5);
@@ -40,6 +66,7 @@ dd:before {
     content: '_';
 }
 footer {
+    border-top: 1px solid rgba(0,0,200,0.6);
     color: rgba(0,0,0,0.5);
     text-transform: uppercase;
 }
