@@ -23,7 +23,7 @@ document.querySelectorAll('button[data-person]').forEach((personButton) => {
 
         console.log('html', html);
 
-        mainDynamicContentWrapper.setHTML(html);
+        mainDynamicContentWrapper.innerHTML = html;
       }
     );
 
