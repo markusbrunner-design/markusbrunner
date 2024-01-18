@@ -1,5 +1,3 @@
-const personDir = './person/';
-//const personDir = '//markusbrunner.de/person/';
 let mainDynamicContentWrapper = document.querySelector('#main__dynamic-content');
 let converter = new showdown.Converter();
 
@@ -12,20 +10,25 @@ let getTextFileContent = function(file) {
     });
 }
 
+let changeContent = function(dir, file) {
+  let text = getTextFileContent([dir, file].join('')).then(
+    (text) => {
+      let html = converter.makeHtml(text);
+      mainDynamicContentWrapper.innerHTML = html;
+    }
+  );
+}
+
 document.querySelectorAll('button[data-person]').forEach((personButton) => {
   personButton.addEventListener('click', (ev) => {
     let personFile = ev.target.dataset.person;
-    let text = getTextFileContent([personDir, personFile].join('')).then(
-      (text) => {
+    changeContent('./person/', personFile);
+  });
+});
 
-
-        let html = converter.makeHtml(text);
-
-        console.log('html', html);
-
-        mainDynamicContentWrapper.innerHTML = html;
-      }
-    );
-
+document.querySelectorAll('button[data-poem]').forEach((poemButton) => {
+  poemButton.addEventListener('click', (ev) => {
+    let poemFile = ev.target.dataset.poem;
+    changeContent('./poem/', poemFile);
   });
 });
