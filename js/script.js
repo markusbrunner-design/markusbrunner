@@ -15,6 +15,7 @@ let changeContent = function(dir, file) {
     (text) => {
       let html = converter.makeHtml(text);
       mainDynamicContentWrapper.innerHTML = html;
+      location.hash = "#main__dynamic-content";
     }
   );
 }
