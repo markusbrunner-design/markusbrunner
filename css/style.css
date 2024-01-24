@@ -37,6 +37,7 @@ main nav {
 #main__dynamic-content {
     border-left: 1px solid rgba(0,0,200,0.6);
     padding-left: 3rem;
+    overflow-x: auto;
 }
 header {
     background-color: rgba(100,255,100,0.1);
