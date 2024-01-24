@@ -26,6 +26,9 @@ main {
     align-items: flex-start;
     padding: 0;
 }
+#main button {
+    text-align: left;
+}
 main nav {
     background: rgba(0,0,200,0.1);
     padding: 0 3rem 0 0;
@@ -74,4 +77,13 @@ footer {
     color: rgba(0,0,0,0.5);
     text-transform: uppercase;
     padding: 1rem;
+}
+@media only screen and (max-width: 800px) {
+    #main {
+        flex-direction: column;
+    }
+    #main nav,
+    #main__dynamic-content{
+        width: 100%;
+    }
 }
