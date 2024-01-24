@@ -83,7 +83,10 @@ footer {
         flex-direction: column;
     }
     #main nav,
-    #main__dynamic-content{
+    #main__dynamic-content {
         width: 100%;
+    }
+    #main__dynamic-content {
+        padding-top: 2em;
     }
 }
