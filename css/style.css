@@ -84,9 +84,9 @@ footer {
     }
     #main nav,
     #main__dynamic-content {
-        width: 100%;
+        width: 90%;
     }
     #main__dynamic-content {
-        padding-top: 2em;
+        padding: 2em;
     }
 }
