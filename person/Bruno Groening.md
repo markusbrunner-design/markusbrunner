@@ -13,3 +13,4 @@
 * [Das Phänomen Bruno Gröning Teil 2 Sinn des Lebens](https://youtu.be/vMAVIxnPik4?si=8Sv_ro7YNhR40ieK)
 * [Das Phänomen Bruno Gröning Teil 3 Sinn des Lebens](https://youtu.be/2UuFQR4alQA?si=Lf4bpyXd3j6JBRrA)
 * [Das Phänomen Bruno Gröning Teil 4 Sinn des Lebens](https://youtu.be/496zF9Ur6Cs?si=p6S28WPywHsfTLZa)
+* [Die Lehre Bruno Gröning & geführtes Einstellen auf den Heilstrom & die göttliche Ordnung -WiVViCA](https://youtu.be/uQ6wPkf_9Cw?si=G1ucB2ooy6lP3C4x)
