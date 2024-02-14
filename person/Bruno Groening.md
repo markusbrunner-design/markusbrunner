@@ -7,6 +7,25 @@
 * Es gibt nur eine Heilung: Die Rückkehr zu Gott!
 * Es gibt nur eine Medizin: Die Liebe Gottes!
 * Es gibt nur einen Arzt: Gott!
+  
+## Angst und Materie
+* Beschäftige Dich nicht mit dem aktuellen Zeitgeschehen / den Nachrichten - nur soweit notwendig: Angst beeinflusst! Der Geist bestimmt die Materie!
+
+## Einstimmen in den Heilstrom
+* in diesem Zustand kann geheilt werden
+* in diesem Zustand kann jede Frage gestellt werden
+* WIE?
+  * im Sitzen
+  * Arme und Beine nicht überkreuzen
+  * Oberkörper aufrecht
+  * Rücken frei und nicht angelehnt
+  * Kiefer leicht erstarrt
+  * Augen geschlossen
+  * Füße stehen fest nebeneinander auf dem Boden
+  * die Knie berühren sich nicht
+  * die Arme liegen auf den Oberschenkeln und die Hände zeigen geöffnet Richtung Himmel
+  * tiefe Nasen-Bauchatmung, durch den Mund ausatmen und entspannen
+  * alle schweren Gedanken fallen lassen und an Gott/Engel/Bruno abgeben
 
 ## Links
 * [Das Phänomen Bruno Gröning Teil 1 Sinn des Lebens](https://youtu.be/0UcktrqSp4A?si=MYesFnnT1b-wemuc)
