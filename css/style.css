@@ -1,5 +1,5 @@
 body {
-    background: #fff url('../img/header.jpg');
+    background: #eee;
     background-size: cover;
     backdrop-filter: blur(100px);
     line-height: 1.7em;
@@ -10,7 +10,7 @@ button {
     color: #fff;
     cursor: pointer;
 }
-header, main, footer {
+main, footer {
     opacity: 0.9;
 }
 article {
@@ -23,7 +23,7 @@ main {
 #main {
     display: flex;
     justify-content: flex-start;
-    align-items: flex-start;
+    align-items: stretch;
     padding: 0;
 }
 #main button {
@@ -35,22 +35,30 @@ main nav {
     min-width: 20%;
 }
 #main__dynamic-content {
-    border-left: 1px solid rgba(0,0,200,0.6);
     padding-left: 3rem;
     overflow-x: auto;
 }
 header {
-    background-color: rgba(100,255,100,0.1);
     padding: 1rem;
+    font-size: 5rem;
+    line-height: 5rem;
+    text-decoration: none;
 }
 header h1 {
     color: rgba(0,0,50,0.5);
-    font-size: 2em;
-    margin-top: 1em;
+    font-size: inherit;
+    list-style: inherit;
+}
+header img {
+    margin-right: 1rem;
+}
+header a {
+    text-decoration: none;
 }
 h2 {
     font-size: 1.5em;
-    margin-top: 0;
+    margin-top: 1em;
+    margin-bottom: .5em;
 }
 h1::first-letter, h2::first-letter  {
     color: rgba(0,0,200,0.6);
