@@ -34,6 +34,9 @@ main nav {
     padding: 0 3rem 0 0;
     min-width: 20%;
 }
+main nav a {
+    text-decoration: none;
+}
 #main__dynamic-content {
     padding-left: 3rem;
     overflow-x: auto;
@@ -66,20 +69,31 @@ h1::first-letter, h2::first-letter  {
 p {
     font-style: italic;
 }
+dl.link-list {
+    margin: 0 0 1em 0;
+    font-size: 1em;
+    line-height: 1em;
+    vertical-align: baseline;
+}
 dt {
     font-family: serif;
     text-transform: uppercase;
-    margin-bottom: 0.7em;
 }
 dd {
-    font-size: 0.8em;
     margin-left: 3em;
+}
+dd img.icon {
+    float: left;
+    width: 1.5em;
+    height: 1.5em;
+    margin-right: 1em;
+    margin-top: -.3em;
+}
+dd a {
+    text-decoration: none;
 }
 img {
     box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.2);
-}
-dd:before {
-    content: '_';
 }
 footer {
     border-top: 1px solid rgba(0,0,200,0.6);
@@ -98,4 +112,10 @@ footer {
     #main__dynamic-content {
         padding: 2em;
     }
+}
+a .a-hover-show {
+    display: none;
+}
+a:hover .a-hover-show {
+    display: inline-block;
 }
