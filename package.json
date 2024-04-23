@@ -1,6 +1,10 @@
 {
   "name": "markusbrunner",
   "version": "1.0.0",
+  "engines" : {
+    "npm" : ">=9.0.0",
+    "node" : ">=20.0.0"
+  },
   "description": "MarkusBrunner.de",
   "main": "index.html",
   "scripts": {
