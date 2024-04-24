@@ -90,6 +90,7 @@ dd img.icon {
     height: 3em;
     margin-right: 1em;
     margin-top: -0.7rem;
+    box-shadow: none;
 }
 dd a {
     text-decoration: none;
