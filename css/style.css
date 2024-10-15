@@ -41,7 +41,7 @@ main nav a {
 }
 #main__dynamic-content {
     padding-left: 3rem;
-    overflow-x: auto;
+    word-break: break-word;
 }
 header {
     padding: 1rem;
@@ -74,8 +74,11 @@ p {
 dl.link-list {
     margin: 0 0 1em 0;
     font-size: 1.3em;
-    line-height: 1.7em;
+    line-height: 4em;
     vertical-align: baseline;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
 dt {
     font-family: serif;
