@@ -10,10 +10,13 @@ let getTextFileContent = function(file) {
     });
 }
 
-let changeContent = function(dir, file) {
+let changeContent = function(dir, file, withPreTag = false) {
   let text = getTextFileContent([dir, file].join('')).then(
     (text) => {
       let html = converter.makeHtml(text);
+      if(withPreTag) {
+        html = `<pre>${html}</pre>`;
+      }
       mainDynamicContentWrapper.innerHTML = html;
       location.hash = "#main__dynamic-content";
     }
@@ -30,6 +33,6 @@ document.querySelectorAll('button[data-person]').forEach((personButton) => {
 document.querySelectorAll('button[data-poem]').forEach((poemButton) => {
   poemButton.addEventListener('click', (ev) => {
     let poemFile = ev.target.dataset.poem;
-    changeContent('./poem/', poemFile);
+    changeContent('./poem/', poemFile, true);
   });
 });
