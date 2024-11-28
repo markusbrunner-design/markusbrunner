@@ -60,8 +60,3 @@ Dann können wir erstmals wirklich sein
 Unsere Liebe in vollem hoch glänzenden Schein
 
 __Markus Brunner, 07.05.2024__
-
-### Appendix
-Ich will sein, was Du brauchst! 
-Und zwar nicht, um Dir zu gefallen, 
-sondern aus Liebe! 💞
