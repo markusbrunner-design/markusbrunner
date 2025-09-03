@@ -125,3 +125,7 @@ a .a-hover-show {
 a:hover .a-hover-show {
     display: inline-block;
 }
+.full-width {
+    width: 100%;
+    height: auto;
+}
