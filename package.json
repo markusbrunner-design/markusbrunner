@@ -1,6 +1,6 @@
 {
   "name": "markusbrunner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines" : {
     "npm" : ">=9.0.0",
     "node" : ">=20.0.0"
@@ -8,8 +8,7 @@
   "description": "MarkusBrunner.de",
   "main": "index.html",
   "scripts": {
-    "test": "test",
-    "start": "ws"
+    "start": "npx ws"
   },
   "repository": {
     "type": "git",
@@ -25,10 +24,6 @@
   ],
   "author": "Markus Brunner",
   "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/markusbrunner-design/markusbrunner/issues"
-  },
-  "homepage": "https://github.com/markusbrunner-design/markusbrunner#readme",
   "devDependencies": {
     "local-web-server": "^5.4.0"
   }
