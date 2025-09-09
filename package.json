@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/markusbrunner-design/markusbrunner#readme",
   "devDependencies": {
-    "local-web-server": "^5.3.0"
+    "local-web-server": "^5.4.0"
   }
 }
