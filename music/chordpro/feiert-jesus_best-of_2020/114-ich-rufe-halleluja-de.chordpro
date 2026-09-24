@@ -1,0 +1,53 @@
+{title: Ich rufe Halleluja}
+{subtitle: Raise a Hallelujah}
+{song_number: 114}
+{language: de}
+{tempo: 82}
+{time: 4/4}
+{key: D}
+{composer: Jonathan David Helser, Melissa Helser, Molly Skaggs, Jake Stevens}
+{lyricist: Melanie Kirchner}
+
+{start_of_verse: 1}
+[D]Ich rufe: „Halleluja“, wenn der [G]Feind mir gegenübersteht.
+[Bm7]Ich rufe: „Halleluja“, [Asus4]so laut, bis jeder Zweifel geht.
+[D]Ich rufe: „Halleluja“, als [G]Waffe sing ich nur für dich.
+[Bm7]Ich rufe: „Halleluja“, der [A]Himmel kommt und kämpft für mich.
+{end_of_verse}
+
+{start_of_verse: 2}
+[D]Ich rufe: „Halleluja“, mit [G]allem, was ich heute bin.
+[Bm7]Ich rufe: „Halleluja“, die [Asus4]Finsternis wird vor mir fliehn.
+[D]Ich rufe: „Halleluja“, in[G]mitten aller Unklarheit.
+[Bm7]Ich rufe: „Halleluja“, denn [A]du hast mich von Angst befreit.
+{end_of_verse}
+
+{start_of_chorus}
+[G]Ich singe auch in der [D]Mitte eines Sturms.
+[Bm7]Lauter und lauter wird [A]dieses Lied zu hören sein.
+[G]Raus aus der Asche, [D]Hoffnung erwacht.
+[Bm7]Der Tod ist entmachtet, der [A]König regiert.
+{end_of_chorus}
+
+{start_of_bridge: 1}
+[D]Sing ein bisschen lauter (sing ein bisschen lauter).
+[Asus4]Sing ein bisschen lauter (sing ein bisschen lauter).
+[Bm7]Sing ein bisschen lauter (sing ein bisschen lauter).
+[G]Sing ein bisschen lauter (sing ein bisschen lauter).
+{end_of_bridge}
+
+{start_of_bridge: 2}
+[D]Sing ein bisschen lauter, wenn der Feind mir gegenübersteht.
+[Asus4]Sing ein bisschen lauter, so laut, bis jeder Zweifel geht.
+[Bm7]Sing ein bisschen lauter, als Waffe sing ich nur für dich.
+[G]Sing ein bisschen lauter, der Himmel kommt und kämpft für mich.
+[G]Sing ein bisschen lauter.
+{end_of_bridge}
+
+{start_of_chorus: Coda}
+[D]Ich rufe: „Halleluja“.
+[G]Ich rufe: „Halleluja“.
+[Bm7]Ich rufe: „Halleluja“.
+[Asus4]Ich rufe: „Halleluja“[G].
+{end_of_chorus}
+{comment: Ablauf der Vorlage: Strophe 1, Refrain, Strophe 2, Refrain, Bridge 1, Bridge 2, Refrain, Coda.}
