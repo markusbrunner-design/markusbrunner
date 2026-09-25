@@ -2,38 +2,44 @@
 {song_number: 159}
 {language: en}
 
-{comment: Verse 1}
+{start_of_verse: 1}
 [C]Worthy is the [Gm7]Lamb who was slain;
 [Bb]holy, holy [F]is He.
 [C]Sing a new song to [Gm7]Him who sits on
 [Bb]heaven's mercy [F]seat.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [C]Holy, holy, holy is the [Gm7]Lord God Almighty,
 [Bb]who was and is and is to [F]come.
 With all [C]creation I sing praise to the [Gm7]King of Kings;
 [Bb]You are my everything and [F]I will adore [C]You.
+{end_of_chorus}
 
-{comment: Verse 2}
+{start_of_verse: 2}
 [C]Clothed in rainbows of [Gm7]living color,
 [Bb]flashes of lightning, [F]rolls of thunder.
 [C]Blessing and honor, strength and [Gm7]glory and power be
 [Bb]to You, the only [F]wise King.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [C]Holy, holy, holy is the [Gm7]Lord God Almighty,
 [Bb]who was and is and is to [F]come.
 With all [C]creation I sing praise to the [Gm7]King of Kings;
 [Bb]You are my everything and [F]I will adore [C]You.
+{end_of_chorus}
 
-{comment: Verse 3}
+{start_of_verse: 3}
 [C]Filled with wonder, [Gm7]awestruck wonder,
 [Bb]at the mention of [F]Your name;
 [C]Jesus, Your name is power, [Gm7]breath and living water,
 [Bb]such a marvelous [F]mystery!
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [C]Holy, holy, holy is the [Gm7]Lord God Almighty,
 [Bb]who was and is and is to [F]come.
 With all [C]creation I sing praise to the [Gm7]King of Kings;
 [Bb]You are my everything and [F]I will adore [C]You.
+{end_of_chorus}

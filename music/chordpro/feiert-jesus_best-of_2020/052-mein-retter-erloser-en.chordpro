@@ -5,7 +5,7 @@
 {tempo: 132}
 {language: en}
 
-{comment: Verse}
+{start_of_verse}
 [E]My Saviour, [Esus4]Redeemer,
 [E]lifted me from the [Esus4]miry clay.
 [E]Almighty [Esus4]forever,
@@ -13,6 +13,7 @@
 'Cause You came [C#m7]near,
 from the everlasting [A]to the world we live,
 [E]the Father's only [B]Son.
+{end_of_verse}
 
 {start_of_chorus}
 And You [E]lived, and You [B/D#]died,

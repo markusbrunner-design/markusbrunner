@@ -3,35 +3,41 @@
 {language: de}
 {key: Em}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [Em7]Ich bin kein König aus dem Morgenland, hab keinen Schatz, den ich dir bringen kann.
 [G]Ich habe keinen großen Namen, [Em]werde die Reise trotzdem [D/F#]wagen.
 [G]Ich werd dich finden und bei mir [Cm6]tragen. [G]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [Am]Gloria, [Em]mein Herz singt, [G]mein Herz singt ganz [Dsus4]leise.
 [Am]Gloria, [Em]und es weint [Bb7]und es lacht.
 [Am]Gloria, [Em]mein Herz singt, [G]mein Herz singt ganz [Dsus4]leise.
 [Am]Glori[Em]a [C]in dieser Nacht.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [Em7]Ich bin kein Hirte, der die Herde bewacht, der in der Nacht ein Heer von Engeln sah.
 [G]Ich hab dir kaum etwas zu geben, doch [Em]seh ich dich in der Krippe [D/F#]liegen.
 [G]Ich werd dich wiegen und leise [Cm6]singen. [G]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [Am]Gloria, [Em]mein Herz singt, [G]mein Herz singt ganz [Dsus4]leise.
 [Am]Gloria, [Em]und es weint [Bb7]und es lacht.
 [Am]Gloria, [Em]mein Herz singt, [G]mein Herz singt ganz [Dsus4]leise.
 [Am]Glori[Em]a [C]in dieser Nacht.
+{end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [Em7]Du bist ein König ohne Thron und Macht. Du liegst hier schutzlos in der dunklen Nacht.
 [G]Und über deinem kleinen Leben [Em]sehe ich dunkle Schatten [D/F#]liegen.
 [G]Du siehst sie kommen, doch wirst nicht [Cm6]fliehen. [G]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [Am]Gloria, [Em]mein Herz singt, [G]mein Herz singt ganz [Dsus4]leise.
 [Am]Gloria, [Em]und es weint [Bb7]und es lacht.
 [Am]Gloria, [Em]mein Herz singt, [G]mein Herz singt ganz [Dsus4]leise.
 [Am]Glori[Em]a [C]in dieser Nacht.
+{end_of_chorus}

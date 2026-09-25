@@ -4,34 +4,39 @@
 {tempo: 157}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [C#m]Du hast mich erwählt, [A]bereits von [E]Anfang an.
 [B]Jetzt hab ich dich [C#m]gefunden und hab dich [E]erkannt.
 [B]Ohne [C#m7]dass ich es verdient hab, [A]gibst du
 [E]mir ein neues Funda[B]ment.
+{end_of_verse}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [C#m]Ich höre jetzt auf, [A]alles [E]selbst zu tun,
 [B]und leb aus [C#m]deiner Kraft. Ich darf in dir [E]ruhn.
 [B]Ich er[C#m7]greife alles, was du gibst, [A]lebe in der
 [E]Wahrheit, die du mir [B]zusprichst.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 Du gibst mir [A]ein neues [B]Leben.
 [E]Aus Gnade allein [A]schenkst du mir [C#m7]ein neues Leben,
 unver[B]dient bin ich ganz dein. [C#m7]Nichts ist mehr,
 wie es [A]einmal war. Du [E]machst alles neu,
 [B]du hast alles [A]neu gemacht.
+{end_of_chorus}
 
-{comment: Bridge}
+{start_of_bridge}
 [C#m7]Ich bin nicht mehr der[A]selbe, mein altes [E]Leben ist vorbei. [B]
 [C#m7]Ein neues hat be[A]gonnen, Jesus, du [E]hast mich befreit. [B]
 [C#m7]Ich bin nicht mehr der[A]selbe, mein altes [E]Leben ist vorbei. [B]
 [C#m7]Ein neues hat be[A]gonnen in [E]deiner Herrlichkeit. [B]
+{end_of_bridge}
 
-{comment: Refrain}
+{start_of_chorus}
 Du gibst mir [A]ein neues [B]Leben.
 [E]Aus Gnade allein [A]schenkst du mir [C#m7]ein neues Leben,
 unver[B]dient bin ich ganz dein. [C#m7]Nichts ist mehr,
 wie es [A]einmal war. Du [E]machst alles neu,
 [B]du hast alles [A]neu gemacht.
+{end_of_chorus}

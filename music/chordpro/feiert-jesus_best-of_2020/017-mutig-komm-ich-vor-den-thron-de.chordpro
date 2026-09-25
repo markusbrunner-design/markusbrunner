@@ -3,41 +3,49 @@
 {language: de}
 {key: Em}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [Em]Allein durch Gnade steh ich hier [Dsus4]vor deinem Thron, mein Gott, bei [C]dir.
 [Em]Der mich erlöst hat, lädt mich ein, [Dsus4]ganz nah an seinem Herz zu [C]sein.
 [G/B]Durchbohrte Hände [C]halten [D]mich. [Em]Ich darf bei dir sein [C]ewiglich. [Dsus4][G]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [Em]Mutig komm ich vor den [C]Thron, [D]freigesprochen durch den [Em]Sohn.
 [G/B]Dein Blut macht mich [C]rein. Du [D]nennst mich ganz [Em]dein.
 In [C]deinen Armen [D]darf ich [G]sein.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [Em]Will mich mein Herz erneut verdammn [Dsus4]und Satan flößt mir Zweifel [C]ein,
 [Em]hör ich die Stimme meines Herrn: [Dsus4]Die Furcht muss fliehn, denn ich bin [C]sein.
 [G/B]O, preist den Herrn, der [C]für mich [D]kämpft [Em]und meine Seele [C]ewig schützt. [Dsus4][G]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [Em]Mutig komm ich vor den [C]Thron, [D]freigesprochen durch den [Em]Sohn.
 [G/B]Dein Blut macht mich [C]rein. Du [D]nennst mich ganz [Em]dein.
 In [C]deinen Armen [D]darf ich [G]sein.
+{end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [Em]Seht doch, wie herrlich Jesus ist, [Dsus4]der alle Schönheit über[C]trifft.
 [Em]Die Liebe in Person ist hier. [Dsus4]Gerecht und treu steht er zu [C]mir.
 [G/B]All unser Lob reicht [C]niemals [D]aus, [Em]ihn so zu ehrn, wie's [C]ihm gebührt. [Dsus4][G]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [Em]Mutig komm ich vor den [C]Thron, [D]freigesprochen durch den [Em]Sohn.
 [G/B]Dein Blut macht mich [C]rein. Du [D]nennst mich ganz [Em]dein.
 In [C]deinen Armen [D]darf ich [G]sein.
+{end_of_chorus}
 
-{comment: Bridge}
+{start_of_bridge}
 [C]Das ist der Grund, warum wir [G]feiern: [D]Wir sind befreit, er trug das [C]Urteil.
 [G]O, preist den Herrn, [D]preist den Herrn! Er [Em7]hat für meine [C]Schuld be[D]zahlt. [G]
+{end_of_bridge}
 
-{comment: Refrain}
+{start_of_chorus}
 [Em]Mutig komm ich vor den [C]Thron, [D]freigesprochen durch den [Em]Sohn.
 [G/B]Dein Blut macht mich [C]rein. Du [D]nennst mich ganz [Em]dein.
 In [C]deinen Armen [D]darf ich [G]sein.
+{end_of_chorus}

@@ -2,37 +2,43 @@
 {song_number: 158}
 {language: de}
 
-{comment: 1. Strophe}
+{start_of_verse: 1}
 [E]Licht dieser Welt, du [B]strahlst in unsrer [F#m]Nacht auf,
 [E]leuchtest den Weg, [B]lässt mich [A]sehn.
 [E]Herr, deine [B]Schönheit lässt [F#m]mich anbeten;
 [E]ewig werd [B]ich vor dir [A]stehn.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 Ich will [A]dich an[B]beten, will [E]mich vor dir beugen,
 will [B]dir sagen, du [E]nur bist mein Gott.
 Denn du al[A]lein bist [E]herrlich, du allein bist würdig,
 du [B]nur bist voll[E]kommen gut zu [A]mir.
+{end_of_chorus}
 
-{comment: 2. Strophe}
+{start_of_verse: 2}
 [E]Herr aller Zeiten, du [B]bist hoch er[F#m]haben,
 [E]herrlich im Himmel [B]er[A]höht.
 [E]Doch voller [B]Demut kamst du [F#m]auf die Erde;
 [E]zeigst, worin [B]Liebe be[A]steht.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 Ich will [A]dich an[B]beten, will [E]mich vor dir beugen,
 will [B]dir sagen, du [E]nur bist mein Gott.
 Denn du al[A]lein bist [E]herrlich, du allein bist würdig,
 du [B]nur bist voll[E]kommen gut zu [A]mir.
+{end_of_chorus}
 
 {comment: Zusatzteil}
 [A]Herr, nie be[B]greife [E]ich die Last,
 die du [B]am Kreuz ge[E]tragen hast.
-{comment: Zusatzteil wiederholen; zum Schluss nochmals Refrain}
+{start_of_chorus}
+{end_of_chorus}
 
-{comment: Refrain}
+{start_of_chorus}
 Ich will [A]dich an[B]beten, will [E]mich vor dir beugen,
 will [B]dir sagen, du [E]nur bist mein Gott.
 Denn du al[A]lein bist [E]herrlich, du allein bist würdig,
 du [B]nur bist voll[E]kommen gut zu [A]mir.
+{end_of_chorus}

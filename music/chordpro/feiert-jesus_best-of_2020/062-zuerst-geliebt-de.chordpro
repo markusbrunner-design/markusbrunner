@@ -4,11 +4,12 @@
 {tempo: 124}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [A]Weil du mehr als deinen Tod vor Augen [Bm]sahst, [F#m]
 nahmst du das Kreuz auf [D]dich. [A]
 Auch wenn dieser Weg der schwerste für dich [Bm]war, [F#m]
 nahmst du das Kreuz auf [D]dich. [A]
+{end_of_verse}
 
 {start_of_chorus}
 [D]Du hast mich zuerst ge[E]liebt,
@@ -17,11 +18,12 @@ nahmst du das Kreuz auf [D]dich. [A]
 [F#m]Danke, [A/C#]Jesus.
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [A]Dass du selbstlos diesen Schmerz ertragen [Bm]hast, [F#m]
 das überwältigt [D]mich. [A]
 Bin ich schwach, ist diese Liebe meine [Bm]Kraft, [F#m]
 das überwältigt [D]mich. [A]
+{end_of_verse}
 
 {start_of_chorus}
 [D]Du hast mich zuerst ge[E]liebt,
@@ -30,11 +32,12 @@ das überwältigt [D]mich. [A]
 [F#m]Danke, [A/C#]Jesus.
 {end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [A]Ja, ich glaub, dass du das Beste für mich [Bm]willst. [F#m]
 Jesus, ich folge [D]dir. [A]
 Ich vertrau dir, denn du siehst das große [Bm]Bild. [F#m]
 Jesus, ich folge [D]dir. [A]
+{end_of_verse}
 
 {start_of_chorus}
 [D]Du hast mich zuerst ge[E]liebt,
@@ -43,8 +46,10 @@ Jesus, ich folge [D]dir. [A]
 [F#m]Danke, [A/C#]Jesus.
 {end_of_chorus}
 
-{comment: Bridge}
+{start_of_bridge}
 [Dmaj7]Was ich hab, was ich [Esus4]bin, leg ich [F#m7]dankbar vor dich [A/C#]hin,
 denn ich [Dmaj7]weiß, was du [Esus4]gabst, als du aus [F#m7]Liebe für mich starbst. [A]
+{end_of_bridge}
 
-{comment: Ablauf der Noten: Strophen und Refrain; Refrain wiederholen; Bridge dreimal, beim vierten Mal D.S. al Fine.}
+{start_of_verse}
+{end_of_verse}

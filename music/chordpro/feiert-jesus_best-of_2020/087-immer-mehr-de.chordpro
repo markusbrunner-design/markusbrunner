@@ -4,13 +4,14 @@
 {key: G}
 {time: 4/4}
 {tempo: 66}
-{comment: Refrain}
+{start_of_chorus}
 Immer [Em]mehr von dir, [C]immer mehr, [D]immer
 [Em]mehr sein wie du, [C]immer [D]mehr.
 Immer [Em]mehr deine Worte [C]verstehn, [D]deine Werke [Bm]tun,
 [C]o Herr, [B7]immer [Em]mehr.
+{end_of_chorus}
 
-{comment: Strophe}
+{start_of_verse}
 [Em]Du bist ein Gott, [D]der seine Kinder liebt,
 [Em]der als ein Vater [Am7]ihr Verlangen [D]sieht.
 [G]Niemand und nichts [D]kommt dir jemals gleich,
@@ -18,7 +19,9 @@ Immer [Em]mehr deine Worte [C]verstehn, [D]deine Werke [Bm]tun,
 [D]als ewig treuer [Em]Freund [C]und weißt genau,
 [Am]wie unser Herz [D]es meint. [G]Gib uns mehr
 [C]von dir, [D]immer [G]mehr.
+{end_of_verse}
 
-{comment: Refrain zu Beginn und nach der Strophe; Schluss auf „Immer mehr“.}
+{start_of_verse}
+{end_of_verse}
 
 {comment: Text und Melodie: Lothar Kosse. }

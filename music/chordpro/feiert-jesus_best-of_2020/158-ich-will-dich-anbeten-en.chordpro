@@ -2,37 +2,43 @@
 {song_number: 158}
 {language: en}
 
-{comment: Verse 1}
+{start_of_verse: 1}
 [E]Light of the world, You [B]stepped down into [F#m]darkness,
 [E]opened my eyes, [B]let me [A]see.
 [E]Beauty that [B]made this heart [F#m]adore You,
 [E]hope of a [B]life spent with [A]You.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 So here I [A]am to [B]worship, here I [E]am to bow down,
 here I [B]am to say that [E]You're my God.
 And You're alto[A]gether [E]lovely, altogether worthy,
 alto[B]gether [E]wonderful to [A]me.
+{end_of_chorus}
 
-{comment: Verse 2}
+{start_of_verse: 2}
 [E]King of all days, oh [B]so highly ex[F#m]alted,
 [E]glorious in heaven [B]a[A]bove.
 [E]Humbly You [B]came to the [F#m]earth You created,
 [E]all for love's [B]sake became [A]poor.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 So here I [A]am to [B]worship, here I [E]am to bow down,
 here I [B]am to say that [E]You're my God.
 And You're alto[A]gether [E]lovely, altogether worthy,
 alto[B]gether [E]wonderful to [A]me.
+{end_of_chorus}
 
 {comment: Additional section}
 And I'll [A]never [B]know how [E]much it cost
 to see [B]my sin up[E]on that cross.
-{comment: Repeat additional section; finish with chorus}
+{start_of_chorus}
+{end_of_chorus}
 
-{comment: Chorus}
+{start_of_chorus}
 So here I [A]am to [B]worship, here I [E]am to bow down,
 here I [B]am to say that [E]You're my God.
 And You're alto[A]gether [E]lovely, altogether worthy,
 alto[B]gether [E]wonderful to [A]me.
+{end_of_chorus}

@@ -6,10 +6,12 @@
 
 {comment: English working translation of the German text; not an authorized original lyric or verified singable adaptation.}
 
-{comment: Verse 1}
+{start_of_verse: 1}
 [D7]He is the [G]prince of peace [Em7]and the [A7]almighty [D]God, [F#m]
 [Bm7]wonderful counselor, [Em7]everlasting [A7]father. [D] [D7]
+{end_of_verse}
 
-{comment: Verse 2}
+{start_of_verse: 2}
 [D7]And the [G]government rests [Em7]upon his [A7]shoulder, [D] [F#m]
 [Bm7]and of his kingdom of peace [Em7]there [A7]shall be no [G/A]end. [D]
+{end_of_verse}

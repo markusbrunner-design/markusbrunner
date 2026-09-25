@@ -3,32 +3,37 @@
 {language: de}
 {tempo: 166}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [Bm7]Bevor ich ein Wort sprach, [A]sangst du Lieder über mich.
 [G]Du warst schon [Bm7]immer gut [A]zu mir.
 [Bm7]Du hast mich geformt, [A]mir Leben eingehaucht.
 [G]Du warst schon [Bm7]immer gut [A]zu mir.
+{end_of_verse}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [Bm7]Ich war noch dein Feind, [A]doch du hast gekämpft um mich.
 [G]Du warst schon [Bm7]immer gut [A]zu mir.
 [Bm7]Ich war mir nichts wert, [A]doch du hast bezahlt für mich.
 [G]Du warst schon [Bm7]immer gut [A]zu mir.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [Bm7]O, wie endlos, [A]überwältigend, [G]gewagt ist, wie du liebst.
 [D]O, du kämpfst für mich und [Bm7]spürst mich auf, [A]lässt neunundneunzig [G]stehn.
 [D]Ich weiß genau, dass ich es nicht verdient hab, doch du [A]gibst dich für mich [G]hin.
 [Bm7]O, wie endlos, [A]überwältigend, [G]gewagt ist, wie du [D]liebst.
+{end_of_chorus}
 
-{comment: Bridge (2x)}
+{start_of_bridge}
 [Bm7]Du erleuchtest alle Schatten, [A]erklimmst alle Berge,
 [G]um mir nachzu[D]gehn.
 [Bm7]Du zerstörst alle Mauern, [A]vertreibst alle Lügen,
 [G]um mir nachzu[D]gehn.
+{end_of_bridge}
 
-{comment: Refrain}
+{start_of_chorus}
 [Bm7]O, wie endlos, [A]überwältigend, [G]gewagt ist, wie du liebst.
 [D]O, du kämpfst für mich und [Bm7]spürst mich auf, [A]lässt neunundneunzig [G]stehn.
 [D]Ich weiß genau, dass ich es nicht verdient hab, doch du [A]gibst dich für mich [G]hin.
 [Bm7]O, wie endlos, [A]überwältigend, [G]gewagt ist, wie du [D]liebst.
+{end_of_chorus}

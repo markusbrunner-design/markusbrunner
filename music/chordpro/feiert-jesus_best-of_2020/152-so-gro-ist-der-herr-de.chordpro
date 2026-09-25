@@ -2,26 +2,31 @@
 {song_number: 152}
 {language: de}
 
-{comment: 1. Strophe}
+{start_of_verse: 1}
 Ein [G]König voller Pracht, voll [Em7]Weisheit und voll Macht.
 Die Schöpfung betet an, [C]die Schöpfung betet an.
 Er [G]kleidet sich in Licht, das [Em7]Dunkel hält ihn nicht
 und flieht, sobald er spricht, [C]und flieht, sobald er spricht.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 So [G]groß ist der Herr! Singt mit mir: So [Em7]groß ist der Herr!
 Ihn preisen wir: So [Cmaj7]groß, so [D]groß ist der [G]Herr!
+{end_of_chorus}
 
-{comment: 2. Strophe}
+{start_of_verse: 2}
 Von [G]Anbeginn der Zeit bis [Em7]in die Ewigkeit
 bleibt er derselbe Gott, [C]bleibt er derselbe Gott.
 Als [G]Vater, Sohn und Geist, den [Em7]alle Schöpfung preist,
 als Löwe und als Lamm, [C]als Löwe und als Lamm.
+{end_of_verse}
 
-{comment: Bridge}
+{start_of_bridge}
 Sein [G]Name sei erhöht, denn [Em7]er verdient das Lob.
 Wir [Cmaj7]singen laut: So groß [D]ist der [G]Herr!
+{end_of_bridge}
 
-{comment: Refrain}
+{start_of_chorus}
 So [G]groß ist der Herr! Singt mit mir: So [Em7]groß ist der Herr!
 Ihn preisen wir: So [Cmaj7]groß, so [D]groß ist der [G]Herr!
+{end_of_chorus}

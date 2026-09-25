@@ -3,9 +3,10 @@
 {language: en}
 {tempo: 62}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]There is none like [D]You, [C]no one else can touch my heart like You [G]do;
 [Am7]I could search for all [D]eternity long and find: [G]there is none like You!
 [Em][C]Your mercy flows like a [D7sus4]river [G]wide,
 [Am7]and healing comes from Your [D]hands.
 [G]Suffering children are [C]safe in Your arms; [D]there is none like [G]You.
+{end_of_chorus}

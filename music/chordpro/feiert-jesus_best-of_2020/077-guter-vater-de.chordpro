@@ -3,41 +3,49 @@
 {language: de}
 {tempo: 144}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [G]Es gibt so [Gsus4]viele [G]Stimmen, die sagen, wie du bist,
 [G]doch ich kenn dein [Gsus4]sanftes [G]Flüstern inmitten der Finsternis.
 [C]Du sagst, dass du dich an mir freust und dass
 [Am7]du mich nie ver[D]lässt.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [C]So ein guter Vater, das bist [G]du, das bist du, das bist du.
 [Am7]Ich bin von dir geliebt, das bin [Dsus4]ich, das bin ich, das bin ich.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [G]So viele [Gsus4]Menschen [G]suchen nach Antwort dort und hier,
 [G]doch alles, [Gsus4]was wir [G]suchen, die Antwort finden wir bei dir.
 [C]Du weißt längst, was uns noch fehlt, schon be-
 [Am7]vor wir zu dir [D]flehn.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [C]So ein guter Vater, das bist [G]du, das bist du, das bist du.
 [Am7]Ich bin von dir geliebt, das bin [Dsus4]ich, das bin ich, das bin ich.
+{end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [G]Liebe, die mich [Gsus4]staunen [G]lässt und mich sprachlos macht.
 [G]Friede, [Gsus4]unbeschreiblich [G]tief, mehr, als ich je versteh.
 [C]Immer tiefer rufst du mich hin zu
 [Am7]dir, dir, [D]dir.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [C]So ein guter Vater, das bist [G]du, das bist du, das bist du.
 [Am7]Ich bin von dir geliebt, das bin [Dsus4]ich, das bin ich, das bin ich.
+{end_of_chorus}
 
-{comment: Bridge}
+{start_of_bridge}
 [C]Du bist Liebe und vollkommen [Em7]gut,
 [Am7]du bist Liebe und vollkommen [G]gut,
 [C]du bist Liebe und vollkommen [Em7]gut zu [Dsus4]uns.
+{end_of_bridge}
 
-{comment: Refrain}
+{start_of_chorus}
 [C]So ein guter Vater, das bist [G]du, das bist du, das bist du.
 [Am7]Ich bin von dir geliebt, das bin [Dsus4]ich, das bin ich, das bin ich.
+{end_of_chorus}

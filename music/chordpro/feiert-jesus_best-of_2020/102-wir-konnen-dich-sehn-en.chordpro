@@ -4,45 +4,51 @@
 {tempo: 94}
 {artist: Daniela May, Annika Baer, Evelyn Pfaffenrot, Anita Schneider und Matthias Jäger}
 
-{comment: Verse 1}
+{start_of_verse: 1}
 [D]The sun in the day, [Bm]the moon in the night:
 [F#m]we can see you [G/A]there.
 [D]When earth awakes [Bm]after its sleep:
 [F#m]we can see you [G/A]there.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [A]We can see you. [D/F#]We can see you.
 [G]You make yourself visible, [D/F#]within our reach.
 [G]You are [A]beautiful beyond words!
 [A]We can see you. [D/F#]We can see you.
 [G]You are creator, [D/F#]master, [G]king.
 [Bm]We are allowed [A]to see [D]you.
+{end_of_chorus}
 
-{comment: Verse 2}
+{start_of_verse: 2}
 [D]A raging storm, [Bm]a warming light:
 [F#m]we can see you [G/A]there.
 [D]Up to the summit, [Bm]you open our view:
 [F#m]we can see you [G/A]there.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [A]We can see you. [D/F#]We can see you.
 [G]You make yourself visible, [D/F#]within our reach.
 [G]You are [A]beautiful beyond words!
 [A]We can see you. [D/F#]We can see you.
 [G]You are creator, [D/F#]master, [G]king.
 [Bm]We are allowed [A]to see [D]you.
+{end_of_chorus}
 
-{comment: Verse 3}
+{start_of_verse: 3}
 [D]In sky and sea, [Bm]in every living creature:
 [F#m]we can see you [G/A]there.
 [D]In people you formed [Bm]in your own image:
 [F#m]we can see you [G/A]there.
 [Em7]You reveal yourself [G]in every detail. [A]
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [A]We can see you. [D/F#]We can see you.
 [G]You make yourself visible, [D/F#]within our reach.
 [G]You are [A]beautiful beyond words!
 [A]We can see you. [D/F#]We can see you.
 [G]You are creator, [D/F#]master, [G]king.
 [Bm]We are allowed [A]to see [D]you.
+{end_of_chorus}

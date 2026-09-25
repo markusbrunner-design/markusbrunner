@@ -4,12 +4,13 @@
 {time: 4/4}
 {key: E}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [B7sus4]Vater, wir sind hier, [E]kommen, wie wir [C#m7]sind,
 [B7sus4]schauen auf zu dir, [F#m7]staunend wie ein [B7sus4]Kind.
 [B7sus4]Alles in uns preist [E]deine Gegen[C#m7]wart,
 [F#m7]die dein Wort verheißt dem, der auf dich harrt [B7sus4]in
 Wahrheit und im [E]Geist.
+{end_of_verse}
 
 {start_of_chorus}
 [E]Wir beten dich an [F#m7]mit ganzem Herzen. [C#m7]
@@ -21,12 +22,13 @@ Wir beten dich an [F#m7]mit unserm Leben, [C#m7]hier und [G#m7]jetzt,
 in [B7sus4]Wahrheit und im [E]Geist.
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [B7sus4]Alles bringen wir, [E]ehren dich al[C#m7]lein,
 [B7sus4]wollen immer mehr [F#m7]wahre Beter [B7sus4]sein.
 [B7sus4]Denn jetzt ist die Zeit, [E]in der sich er[C#m7]füllt,
 [F#m7]dass dein Volk dich preist so, wie du es willst [B7sus4]in
 Wahrheit und im [E]Geist.
+{end_of_verse}
 
 {start_of_chorus}
 [E]Wir beten dich an [F#m7]mit ganzem Herzen. [C#m7]

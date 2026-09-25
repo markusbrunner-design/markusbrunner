@@ -4,38 +4,44 @@
 {tempo: 85}
 {artist: Samuel Harfst und Tobias Hundt}
 
-{comment: Verse 1}
+{start_of_verse: 1}
 [Em]In the darkest of nights, [Bm]light began to shine.
 [Am]You spoke a word, [Bm]and the darkness withdrew.
 [Em]The water of life, [Bm]the source of the seas,
 [Am]you made the heavens [Bm]and fashioned the mountains. [Em][D/F#]
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]My soul is singing, oh, [Bm7]my soul is singing, [C]
 [Dsus4]as long as I have breath. [G]Stars are shining bright for
 [Bm7]you; the sea reflects their [C]light.
 Oh, [Dsus4]my soul sings. [G]
+{end_of_chorus}
 
-{comment: Verse 2}
+{start_of_verse: 2}
 [Em]On the first day [Bm]your wind began to blow,
 [Am]clothing all things in color [Bm]like a child with a brush.
 [Em]A loving king [Bm]watched over the earth.
 [Am]All creation [Bm]gave you the honor. [Em][D/F#]
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]My soul is singing, oh, [Bm7]my soul is singing, [C]
 [Dsus4]as long as I have breath. [G]Stars are shining bright for
 [Bm7]you; the sea reflects their [C]light.
 Oh, [Dsus4]my soul sings. [G]
+{end_of_chorus}
 
-{comment: Bridge}
+{start_of_bridge}
 [G]Holy, [Am7]holy, [C]holy are [G]you.
 [G]How could I [Am7]be silent [C]when all things [G]cry?
 [G]Holy, [Am7]holy, [C]holy are [G]you.
 [G]How could I [Am7]be silent [C]when all things [G]cry?
+{end_of_bridge}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]My soul is singing, oh, [Bm7]my soul is singing, [C]
 [Dsus4]as long as I have breath. [G]Stars are shining bright for
 [Bm7]you; the sea reflects their [C]light.
 Oh, [Dsus4]my soul sings. [G]
+{end_of_chorus}

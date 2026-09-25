@@ -5,37 +5,42 @@
 {time: 3/4}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [E]Lobe den [C#m7]Herren, den [G#m]mächtigen [A]König der [B7sus4]Ehren, [E]
 [E]meine ge[C#m7]liebe[G#m]te Seele, das [A]ist mein Be[B7sus4]gehren. [E]
 [E/G#]Kommet zu[A]hauf,
 [C#m7]Psalter und [E/G#]Harfe, wacht [Bsus4]auf,
 [E/G#]lasset den [A]Lobgesang [Bsus4]hören! [E]
+{end_of_verse}
 
-{comment: Strophe 2; gleiche Melodie und Akkordfolge}
+{start_of_verse: 2}
 [E]Lobe den [C#m7]Herren, der [G#m]alles so [A]herrlich re[B7sus4]gieret, [E]
 [E]der dich auf [C#m7]Adelers [G#m]Fittichen [A]sicher ge[B7sus4]führet, [E]
 [E/G#]der dich er[A]hält,
 [C#m7]wie es dir [E/G#]selber ge[Bsus4]fällt;
 [E/G#]hast du nicht [A]dieses ver[Bsus4]spüret? [E]
+{end_of_verse}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [E]Lobe den [C#m7]Herren, der [G#m]kunstvoll und [A]fein dich be[B7sus4]reitet, [E]
 [E]der dir Ge[C#m7]sundheit [G#m]verliehen, dich [A]freundlich ge[B7sus4]leitet. [E]
 [E/G#]In wie viel [A]Not
 [C#m7]hat nicht der [E/G#]gnädige [Bsus4]Gott
 [E/G#]über dir [A]Flügel ge[Bsus4]breitet! [E]
+{end_of_verse}
 
-{comment: Strophe 4}
+{start_of_verse: 4}
 [E]Lobe den [C#m7]Herren, der [G#m]sichtbar dein [A]Leben ge[B7sus4]segnet, [E]
 [E]der aus dem [C#m7]Himmel mit [G#m]Strömen der [A]Liebe ge[B7sus4]regnet. [E]
 [E/G#]Denke da[A]ran,
 [C#m7]was der All[E/G#]mächtige [Bsus4]kann,
 [E/G#]der dir mit [A]Liebe be[Bsus4]gegnet! [E]
+{end_of_verse}
 
-{comment: Strophe 5}
+{start_of_verse: 5}
 [E]Lobe den [C#m7]Herren, was [G#m]in mir ist, [A]lobe den [B7sus4]Namen. [E]
 [E]Alles, was [C#m7]Odem hat, [G#m]lobe mit [A]Abrahams [B7sus4]Samen. [E]
 [E/G#]Er ist dein [A]Licht,
 [C#m7]Seele, ver[E/G#]giss es ja [Bsus4]nicht.
 [E/G#]Lob ihn in [A]Ewigkeit! [Bsus4]Amen. [E]
+{end_of_verse}

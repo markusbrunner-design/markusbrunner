@@ -3,22 +3,26 @@
 {language: de}
 {key: G}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [G]Bahnt einen Weg unserm [C]Gott, der uns erlöst aus der [D]Not.
 [G]Er ist der König der [C]Könige. [D]Er hat am [Em]Kreuz gesiegt
 [Am]durch seinen [G]Tod. [C][Dsus4][D]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Dein [Bm7]Reich [C]komme, o [Dsus4]Herr, [D]erhebe [G]dich
 [Em7]in deiner [Dsus4]Macht. [D]Dir sei [G]Ehre und [Bm7]Ruhm und
 [C]Majestät! [Dsus4][D]Deine [Am]Herr[G]lichkeit [D]ist [C]hier. [G]
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [G]Bahnt einen Weg unserm [C]Gott, der uns erwählt als sein [D]Volk,
 [G]mit ihm zu herrschen in [C]Ewigkeit. [D]Öffnet die [Em]Herzen
 [Am]und macht [G]euch [C]bereit. [Dsus4][D]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Dein [Bm7]Reich [C]komme, o [Dsus4]Herr, [D]erhebe [G]dich
 [Em7]in deiner [Dsus4]Macht. [D]Dir sei [G]Ehre und [Bm7]Ruhm und
 [C]Majestät! [Dsus4][D]Deine [Am]Herr[G]lichkeit [D]ist [C]hier. [G]
+{end_of_chorus}

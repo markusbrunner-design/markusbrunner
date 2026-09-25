@@ -4,36 +4,42 @@
 {tempo: 126}
 {artist: Albert Frey}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [D]Nur den Saum deines Gewandes einen [Bm7]Augenblick berührn,
 [Dmaj7]und die Kraft, die von dir ausgeht, tief in [Asus4]meinem Innern spürn. [A]
 [D]Nur ein Blick aus deinen Augen, nur ein [Bm7]Wort aus deinem Mund,
 [Dmaj7]und die Heilungsströme fließen, meine [Asus4]Seele wird gesund. [A]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [D]Jesus, berühre mich. Hole mich ab, öffne die [Em7]Tür für mich.
 Nimm mich an deiner Hand, ent[G]führe mich in deine [Bm7]Gegenwart. [A]
 [D]Jesus, ich spüre dich, strecke mich aus nach dir, be[Em7]rühre dich.
 Und mein Herz brennt von neuem nur für [G]dich, in deiner [Bm7]Gegenwart. [A]
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [D]Nur ein Stück vom Brot des Lebens, nur ein [Bm7]Tropfen aus dem Kelch,
 [Dmaj7]dann bin ich mit dir verbunden und mein [Asus4]Hunger wird gestillt. [A]
 [D]Nur ein Schluck vom Strom des Lebens, von dem [Bm7]Wasser, das du gibst,
 [Dmaj7]und die Ströme werden fließen aus der [Asus4]Quelle tief in mir. [A]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [D]Jesus, berühre mich. Hole mich ab, öffne die [Em7]Tür für mich.
 Nimm mich an deiner Hand, ent[G]führe mich in deine [Bm7]Gegenwart. [A]
 [D]Jesus, ich spüre dich, strecke mich aus nach dir, be[Em7]rühre dich.
 Und mein Herz brennt von neuem nur für [G]dich, in deiner [Bm7]Gegenwart. [A]
+{end_of_chorus}
 
-{comment: Bridge}
+{start_of_bridge}
 [D/F#]Herr, ich bin nicht würdig, [G]bin oft so weit weg von [A]dir.
 [D/F#]Doch in deiner Liebe [G]kommst du auch zu [A]mir.
+{end_of_bridge}
 
-{comment: Refrain}
+{start_of_chorus}
 [D]Jesus, berühre mich. Hole mich ab, öffne die [Em7]Tür für mich.
 Nimm mich an deiner Hand, ent[G]führe mich in deine [Bm7]Gegenwart. [A]
 [D]Jesus, ich spüre dich, strecke mich aus nach dir, be[Em7]rühre dich.
 Und mein Herz brennt von neuem nur für [G]dich, in deiner [Bm7]Gegenwart. [A]
+{end_of_chorus}

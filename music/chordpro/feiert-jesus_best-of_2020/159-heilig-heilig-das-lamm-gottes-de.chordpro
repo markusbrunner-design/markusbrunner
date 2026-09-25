@@ -2,38 +2,44 @@
 {song_number: 159}
 {language: de}
 
-{comment: 1. Strophe}
+{start_of_verse: 1}
 [C]Heilig, heilig das [Gm7]Lamm Gottes,
 [Bb]das geopfert [F]ist.
 [C]Lob und Ehre sei [Gm7]dir, dem König
 [Bb]auf dem [F]Gnadenthron.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [C]Heilig, heilig, heilig ist der [Gm7]Herr, Gott allmächtig,
 [Bb]der war und ist und der da [F]kommt.
 Die ganze [C]Schöpfung singt und preist dich, den [Gm7]König.
 [Bb]Du bist mir alles, Herr, und [F]ich will dich [C]ehren.
+{end_of_chorus}
 
-{comment: 2. Strophe}
+{start_of_verse: 2}
 [C]Deine Schönheit ist [Gm7]unbeschreiblich,
 [Bb]dein Licht strahlt heller [F]als die Sonne.
 [C]Lobpreis und Ehre, Weisheit und [Gm7]Macht sei dir allein,
 [Bb]nur dir, dem einzig [F]wahren Gott.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [C]Heilig, heilig, heilig ist der [Gm7]Herr, Gott allmächtig,
 [Bb]der war und ist und der da [F]kommt.
 Die ganze [C]Schöpfung singt und preist dich, den [Gm7]König.
 [Bb]Du bist mir alles, Herr, und [F]ich will dich [C]ehren.
+{end_of_chorus}
 
-{comment: 3. Strophe}
+{start_of_verse: 3}
 [C]Wenn dein Name nur er[Gm7]wähnt wird,
 [Bb]wirkst du Wunder [F]unter uns.
 [C]Jesus, in deinem Namen ist [Gm7]die Kraft zum Leben.
 [Bb]Welch Geheimnis [F]öffnet sich!
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [C]Heilig, heilig, heilig ist der [Gm7]Herr, Gott allmächtig,
 [Bb]der war und ist und der da [F]kommt.
 Die ganze [C]Schöpfung singt und preist dich, den [Gm7]König.
 [Bb]Du bist mir alles, Herr, und [F]ich will dich [C]ehren.
+{end_of_chorus}

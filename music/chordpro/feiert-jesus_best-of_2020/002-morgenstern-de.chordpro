@@ -3,14 +3,16 @@
 {language: de}
 {key: C#m}
 
-{comment: Strophe}
+{start_of_verse}
 [C#m]Meine Seele singe, denn die [A/C#]Nacht ist vorbei.
 [Bb/C#]Mach dich auf und [C#m]bringe deinem [A/C#]Gott Lob und Preis.
 [Bb/C#]Alle Schöpfung [C#m]juble, wenn der [A]Tag nun anbricht.
 [Bb]Gottes Töchter und [C#m]Söhne [A]strahlen [Bb]in seinem [C#m]Licht.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [Bb][C#m]Der wahre [Bb][A]Morgenstern, [E]er ist aufgegangen,
 [Bb][C#m][A]der Erlöser [G#m]ist hier.
 [F#][C#m][Bb][A]Ich weiß, dass [E]Jesus lebt, er ist [G#]auferstanden,
 [A]und er [G#m]lebt auch in [F#]mir, lebt auch in [C#m]mir.
+{end_of_chorus}

@@ -4,44 +4,51 @@
 {tempo: 102}
 {language: de}
 
-{comment: Refrain}
+{start_of_chorus}
 [Em]Leben aus der Quelle, [Am]Leben nur aus dir,
 [Bsus4]Leben aus der [B7]Quelle des [Em]Lebens.
 [Em]Leben aus der Quelle, [Am]Leben nur aus dir,
 [Bsus4]Leben aus der [B7]Quelle des [Em]Lebens.
+{end_of_chorus}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [Em]Und du erforschst [Am]mich, ver[D]änderst mein [G]Denken,
 [Em]nur noch aus [Bsus4]dir will ich [B]leben, o Herr.
 [Em]Und du erforschst [Am]mich, ver[D]änderst mein [G]Denken,
 [Em]nur noch aus [Am]dir will ich [B7]leben, o [Em]Herr.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [Em]Leben aus der Quelle, [Am]Leben nur aus dir,
 [Bsus4]Leben aus der [B7]Quelle des [Em]Lebens.
 [Em]Leben aus der Quelle, [Am]Leben nur aus dir,
 [Bsus4]Leben aus der [B7]Quelle des [Em]Lebens.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [Em]Hilfst mir zu [Am]schweigen und [D]auf dich zu [G]warten,
 [Em]nur noch aus [Bsus4]dir will ich [B]leben, o Herr.
 [Em]Hilfst mir zu [Am]schweigen und [D]auf dich zu [G]warten,
 [Em]nur noch aus [Am]dir will ich [B7]leben, o [Em]Herr.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [Em]Leben aus der Quelle, [Am]Leben nur aus dir,
 [Bsus4]Leben aus der [B7]Quelle des [Em]Lebens.
 [Em]Leben aus der Quelle, [Am]Leben nur aus dir,
 [Bsus4]Leben aus der [B7]Quelle des [Em]Lebens.
+{end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [Em]Willst mich ge[Am]brauchen als [D]Salz für die [G]Erde,
 [Em]nur noch aus [Bsus4]dir will ich [B]leben, o Herr.
 [Em]Willst mich ge[Am]brauchen als [D]Salz für die [G]Erde,
 [Em]nur noch aus [Am]dir will ich [B7]leben, o [Em]Herr.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [Em]Leben aus der Quelle, [Am]Leben nur aus dir,
 [Bsus4]Leben aus der [B7]Quelle des [Em]Lebens.
 [Em]Leben aus der Quelle, [Am]Leben nur aus dir,
 [Bsus4]Leben aus der [B7]Quelle des [Em]Lebens.
+{end_of_chorus}

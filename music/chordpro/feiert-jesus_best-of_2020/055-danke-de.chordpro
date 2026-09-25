@@ -3,13 +3,14 @@
 {tempo: 90}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [Dm]Danke für die Sonne, [Am7]danke für den Regen,
 [Bbmaj7]danke für den Himmel über [C]mir.
 [Dm]Danke für den Samen, [Am7]danke für die Früchte,
 [Bbmaj7]danke für die Erde unter [C]mir.
 [Gm]Danke, danke für die Schön[Dm]heit, danke für die Far[Gm]ben,
 danke für das [A]Licht.
+{end_of_verse}
 
 {start_of_chorus}
 [D]Danke, danke für das Leben, [D/C]danke für die Liebe
@@ -18,13 +19,14 @@ danke für das [A]Licht.
 [Bbmaj7]und für die [C]Mu[D]sik.
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [Dm]Danke für das Lachen, [Am7]danke für die Tränen,
 [Bbmaj7]danke dafür, dass ich fühlen [C]kann.
 [Dm]Danke für die Menschen, [Am7]danke für die Tiere,
 [Bbmaj7]danke, dass ich nicht alleine [C]bin.
 [Gm]Danke, danke für die Freund[Dm]schaft, danke für Vertrau[Gm]en,
 danke für die [A]Zeit.
+{end_of_verse}
 
 {start_of_chorus}
 [D]Danke, danke für das Leben, [D/C]danke für die Liebe
@@ -33,11 +35,12 @@ danke für die [A]Zeit.
 [Bbmaj7]und für die [C]Mu[D]sik.
 {end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [Dm]Danke für die Hoffnung, [Am7]danke für den Frieden,
 [Bbmaj7]danke für Bewahrung und für [C]Schutz.
 [Dm]Danke für den Glauben, [Am7]danke für die Gnade,
 [Bbmaj7]danke für Vergebung und das [C]Kreuz.
+{end_of_verse}
 
 {start_of_chorus}
 [D]Danke, danke für das Leben, [D/C]danke für die Liebe
@@ -46,4 +49,5 @@ danke für die [A]Zeit.
 [Bbmaj7]und für die [C]Mu[D]sik.
 {end_of_chorus}
 
-{comment: Das Notenbild zeigt die Zwischenzeilen nur bei Strophe 1 und 2.}
+{start_of_verse: 1}
+{end_of_verse}

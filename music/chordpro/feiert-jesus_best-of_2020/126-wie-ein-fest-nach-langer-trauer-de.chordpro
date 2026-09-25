@@ -4,7 +4,7 @@
 {tempo: 176}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [Em]Wie ein Fest nach langer [Bm]Trauer,
 wie ein [C]Feuer [D]in der [Em]Nacht,
 ein offnes Tor in einer [Bm]Mauer,
@@ -13,12 +13,14 @@ wie ein [Am]Brief nach langem [D]Schweigen,
 wie ein [G]unverhoffter [C]Gruß,
 wie ein [Am]Blatt an toten [Bm]Zweigen,
 ein „Ich-mag-[C]dich-trotz[D]dem-[Em]Kuss“:
+{end_of_verse}
 
-{comment: Refrain · beim letzten Mal „So wird“ statt „So muss“}
+{start_of_chorus}
 [D]So ist Ver[G]söhnung. [G]So muss der wahre [D]Friede [G]sein.
 [G]So ist Ver[G]söhnung. [Em]So ist Vergeben [C]und [D]Ver[Em]zeihn.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [Em]Wie ein Regen in der [Bm]Wüste,
 frischer [C]Tau auf [D]dürrem [Em]Land,
 Heimatklänge für Ver[Bm]misste,
@@ -27,12 +29,14 @@ wie ein [Am]Schlüssel im Ge[D]fängnis,
 wie in [G]Seenot „Land in [C]Sicht“,
 wie ein [Am]Weg aus der Be[Bm]drängnis,
 wie ein [C]strahlen[D]des Ge[Em]sicht:
+{end_of_verse}
 
-{comment: Refrain · beim letzten Mal „So wird“ statt „So muss“}
+{start_of_chorus}
 [D]So ist Ver[G]söhnung. [G]So muss der wahre [D]Friede [G]sein.
 [G]So ist Ver[G]söhnung. [Em]So ist Vergeben [C]und [D]Ver[Em]zeihn.
+{end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [Em]Wie ein Wort von toten [Bm]Lippen,
 wie ein [C]Blick, der [D]Hoffnung [Em]weckt,
 wie ein Licht auf steilen [Bm]Klippen,
@@ -41,7 +45,9 @@ wie ein [Am]Frühling, wie der [D]Morgen,
 wie ein [G]Lied, wie ein Ge[C]dicht,
 wie das [Am]Leben, wie die [Bm]Liebe,
 wie Gott [C]selbst, das [D]wahre [Em]Licht:
+{end_of_verse}
 
-{comment: Refrain · beim letzten Mal „So wird“ statt „So muss“}
+{start_of_chorus}
 [D]So ist Ver[G]söhnung. [G]So muss der wahre [D]Friede [G]sein.
 [G]So ist Ver[G]söhnung. [Em]So ist Vergeben [C]und [D]Ver[Em]zeihn.
+{end_of_chorus}

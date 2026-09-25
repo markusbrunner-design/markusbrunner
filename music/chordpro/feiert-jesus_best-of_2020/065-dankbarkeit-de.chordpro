@@ -4,7 +4,7 @@
 {tempo: 124}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 Du bist der [D]Vater, der mich sieht,
 der [Em]jedes Haar ge[Bm]zählt hat. [A]
 Du bist der [D]Vater, der mich liebt,
@@ -13,6 +13,7 @@ Ich will das [G]schätzen, was du gibst,
 mich [A]nicht daran ge[Em]wöhnen.
 In allem [G]Guten find ich dich,
 im [A]Wahren und im [Bm]Schönen.
+{end_of_verse}
 
 {start_of_chorus}
 Du füllst mich mit [D]Dankbarkeit,
@@ -23,7 +24,7 @@ schenkst mir meine [F#m]Lebenszeit.
 Vater im [G]Himmel, für alles [Bb]dank ich [D]dir.
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 Wenn mir das [D]Leben etwas nimmt,
 die [Em]Sicherheiten [Bm]wanken, [A]
 dann gilt doch: [D]deine Güte bleibt,
@@ -32,6 +33,7 @@ Wenn mir das [G]Leben etwas gibt,
 mich [A]überrascht mit [Em]Freude,
 dann weiß ich: [G]ich hab's nicht verdient,
 doch [A]ich genieß es [Bm]heute.
+{end_of_verse}
 
 {start_of_chorus}
 Du füllst mich mit [D]Dankbarkeit,

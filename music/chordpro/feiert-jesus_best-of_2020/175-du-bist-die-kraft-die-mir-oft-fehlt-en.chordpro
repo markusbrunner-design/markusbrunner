@@ -4,28 +4,33 @@
 {time: 4/4}
 {key: F}
 
-{comment: Chorus}
+{start_of_chorus}
 [F]Jesus, [C/E]Lamb of [Dm]God, [F/A]worthy [Bb]is Your [C]name. [F]
 [F]Jesus, [C/E]Lamb of [Dm]God, [F/C]worthy [C]is Your [F]name.
+{end_of_chorus}
 
-{comment: Verse 1}
+{start_of_verse: 1}
 [F]You are my strength when I am weak. [Dm]You are the
 [F/A]treasure that I [Bb]seek. [C]You are my all in [F]all.
 [F]When I fall down You pick me up, [Dm]when I am
 [F/A]dry You fill my [Bb]cup. [C]You are my all in [F]all.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [F]Jesus, [C/E]Lamb of [Dm]God, [F/A]worthy [Bb]is Your [C]name. [F]
 [F]Jesus, [C/E]Lamb of [Dm]God, [F/C]worthy [C]is Your [F]name.
+{end_of_chorus}
 
-{comment: Verse 2 (same chords as verse 1)}
+{start_of_verse: 2}
 [F]Bearing my guilt, my sin, my shame, [Dm]rising again I bless Your name.
 [F/A]You are my all in [Bb]all. [C]
 [F]Crucified Lord, Redeemer, King, [Dm]joyfully now my praise I bring.
 [F/A]You are my all in [Bb]all. [C][F]
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [F]Jesus, [C/E]Lamb of [Dm]God, [F/A]worthy [Bb]is Your [C]name. [F]
 [F]Jesus, [C/E]Lamb of [Dm]God, [F/C]worthy [C]is Your [F]name.
+{end_of_chorus}
 
 {comment: Words/music: Dennis Jernigan · © 1991 Shepherd's Heart Music}

@@ -4,7 +4,7 @@
 {time: 4/4}
 {key: D}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [D]Ich hab gewartet [F#m]und gewacht.
 [D]Ich fliehe alles, [F#m]was mich hält.
 [D]Wann kommt der Morgen, [F#m]geht die [Gmaj7]Nacht?
@@ -12,6 +12,7 @@
 [D]ich will dich sehn, [F#m7]ich will dich [Bm]sehn.
 [Em]Und aller Reichtum [D/F#]ist wie [A]Sand
 [Em]vor dieser Schönheit, [D/F#]die ich [A]fand.
+{end_of_verse}
 
 {start_of_chorus}
 Ich hab noch [Bm]nie eine Liebe wie die [G]deine gefunden. [A]
@@ -20,7 +21,7 @@ Ich hab noch [Bm]nie eine Liebe wie die [G]deine gefunden. [A]
 [A]Freund [G]bist du [D]mir.
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [D]Ich warte auf den [F#m]Morgenstern,
 [D]und meine Schätze [F#m]bring ich dir,
 [D]unendlich nah und [F#m]doch noch [Gmaj7]fern.
@@ -28,6 +29,7 @@ Ich hab noch [Bm]nie eine Liebe wie die [G]deine gefunden. [A]
 den Blick von dir, [F#m7]den Blick von [Bm]dir.
 [Em]Und aller Reichtum [D/F#]ist wie [A]Sand
 [Em]vor dieser Schönheit, [D/F#]die ich [A]fand.
+{end_of_verse}
 
 {start_of_chorus}
 Ich hab noch [Bm]nie eine Liebe wie die [G]deine gefunden. [A]
@@ -36,11 +38,12 @@ Ich hab noch [Bm]nie eine Liebe wie die [G]deine gefunden. [A]
 [A]Freund [G]bist du [D]mir.
 {end_of_chorus}
 
-{comment: Bridge (wiederholen; danach zum Refrain)}
+{start_of_chorus}
 So lass mein [D]Herz schmelzen wie [F#m]Wachs
 unter dem Blick [Bm]deiner [G]Liebe.
 Lass mein [D]Herz schmelzen wie [F#m]Wachs
 unter dem Blick [Bm]deiner [G]Liebe.
+{end_of_chorus}
 
 {start_of_chorus}
 Ich hab noch [Bm]nie eine Liebe wie die [G]deine gefunden. [A]

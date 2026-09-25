@@ -3,19 +3,23 @@
 {language: de}
 {tempo: 106}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [A]Vater des Lichts, du freust dich an deinen Kindern.
 [A]Vater des Lichts, du freust dich an deinen Kindern.
+{end_of_verse}
 
-{comment: Refrain (3x)}
+{start_of_chorus}
 [A]Alles, was gut und vollkommen ist, [E]kommt von [D]dir.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [A]Vater des Lichts, du änderst dich nicht, bist immer derselbe.
 [A]Vater des Lichts, du änderst dich nicht, bist immer derselbe.
+{end_of_verse}
 
-{comment: Refrain (3x)}
+{start_of_chorus}
 [A]Alles, was gut und vollkommen ist, [E]kommt von [D]dir.
+{end_of_chorus}
 
 {comment: Schluss}
 [A]Vater des Lichts.

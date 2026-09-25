@@ -4,42 +4,49 @@
 {tempo: 93}
 {artist: Juri Friesen und Pala Friesen}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [Em]Königlich [D/F#] [G]strahlt dein [C]Licht. [G]
 [Em]Du bist [C]ewiglich, [G]niemand kommt dir [D]gleich.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Sei du der [D/F#]Mittelpunkt in meinem [Em]Leben,
 der [C]Mittelpunkt in meinem [G]Herzen,
 ich [Bm]gehöre dir. [Em]
 [C]Sei [G]du der [D/F#]Mittelpunkt in meiner [Em]Schwäche,
 der [C]Mittelpunkt in meiner [G]Stärke,
 ich [Bm]gehöre dir. [Em][C]
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [Em]Sanftmütig [D/F#] [G]führst du [C]mich [G]
 [Em]hin zu [C]deinem Licht. [G]Ich darf bei dir [D]sein.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Sei du der [D/F#]Mittelpunkt in meinem [Em]Leben,
 der [C]Mittelpunkt in meinem [G]Herzen,
 ich [Bm]gehöre dir. [Em]
 [C]Sei [G]du der [D/F#]Mittelpunkt in meiner [Em]Schwäche,
 der [C]Mittelpunkt in meiner [G]Stärke,
 ich [Bm]gehöre dir. [Em][C]
+{end_of_chorus}
 
-{comment: Bridge}
+{start_of_bridge}
 [C]Ich will dir nah sein, [Em7]ich werd dir [D]folgen, [G][Bm]
 [C]mein ganzes [Em7]Leben in dir [D]verliern.
+{end_of_bridge}
 
-{comment: Bridge}
+{start_of_bridge}
 [C]Ich will dir nah sein, [Em7]ich werd dir [D]folgen, [G][Bm]
 [C]mein ganzes [Em7]Leben in dir [D]verliern.
+{end_of_bridge}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Sei du der [D/F#]Mittelpunkt in meinem [Em]Leben,
 der [C]Mittelpunkt in meinem [G]Herzen,
 ich [Bm]gehöre dir. [Em]
 [C]Sei [G]du der [D/F#]Mittelpunkt in meiner [Em]Schwäche,
 der [C]Mittelpunkt in meiner [G]Stärke,
 ich [Bm]gehöre dir. [Em][C]
+{end_of_chorus}

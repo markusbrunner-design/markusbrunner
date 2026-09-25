@@ -4,45 +4,51 @@
 {tempo: 94}
 {artist: Daniela May, Annika Baer, Evelyn Pfaffenrot, Anita Schneider und Matthias Jäger}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [D]Die Sonne am Tag, [Bm]der Mond in der Nacht:
 [F#m]wir können dich [G/A]sehn.
 [D]Wenn nach ihrem Schlaf [Bm]die Erde erwacht:
 [F#m]wir können dich [G/A]sehn.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [A]Wir können dich sehn. [D/F#]Wir können dich sehn.
 [G]Du machst dich sichtbar, [D/F#]wirst für uns greifbar.
 [G]Du bist [A]unbeschreiblich schön!
 [A]Wir können dich sehn. [D/F#]Wir können dich sehn.
 [G]Du bist der Schöpfer, [D/F#]Meister, [G]König.
 [Bm]Wir dürfen [A]dich [D]sehn.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [D]Ein wütender Sturm, [Bm]ein wärmendes Licht:
 [F#m]wir können dich [G/A]sehn.
 [D]Zum Gipfel hinauf, [Bm]du öffnest die Sicht:
 [F#m]wir können dich [G/A]sehn.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [A]Wir können dich sehn. [D/F#]Wir können dich sehn.
 [G]Du machst dich sichtbar, [D/F#]wirst für uns greifbar.
 [G]Du bist [A]unbeschreiblich schön!
 [A]Wir können dich sehn. [D/F#]Wir können dich sehn.
 [G]Du bist der Schöpfer, [D/F#]Meister, [G]König.
 [Bm]Wir dürfen [A]dich [D]sehn.
+{end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [D]Am Himmel, im Meer, [Bm]jedes einzelne Tier:
 [F#m]wir können dich [G/A]sehn.
 [D]Die Menschen geformt [Bm]als Abbild von dir:
 [F#m]wir können dich [G/A]sehn.
 [Em7]Du zeigst dich [G]in jedem Detail. [A]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [A]Wir können dich sehn. [D/F#]Wir können dich sehn.
 [G]Du machst dich sichtbar, [D/F#]wirst für uns greifbar.
 [G]Du bist [A]unbeschreiblich schön!
 [A]Wir können dich sehn. [D/F#]Wir können dich sehn.
 [G]Du bist der Schöpfer, [D/F#]Meister, [G]König.
 [Bm]Wir dürfen [A]dich [D]sehn.
+{end_of_chorus}

@@ -6,27 +6,33 @@
 {time: 4/4}
 {tempo: 98}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [C]Deine Liebe trägt mich, [G]festigt und erhebt mich.
 [C]Sie ist wie ein Felsen, [Dsus4]auf dem ich sicher steh.
 [C]Deine Liebe stärkt mich, [G]sie ist sanft und zärtlich.
 [C]Ich kann es kaum fassen, [Dsus4]sie wird nicht vergehn.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Halleluja, Hallelu[Dsus4]ja, Hallelu[Em7]ja,
 [C]du begeisterst mich. [G]Halleluja, Hallelu[Dsus4]ja,
 [Em7]Halleluja, [C]du begeisterst mich.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [C]Deine Liebe spür ich. [G]Du bist immer für mich.
 [C]Ich bin überglücklich, [Dsus4]du hast mich berührt.
 [C]Ich liebe deine Nähe [G]und wenn ich dich sehe,
 [C]sing ich das Lied des Himmels, [Dsus4]dass es jeder hört.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Halleluja, Hallelu[Dsus4]ja, Hallelu[Em7]ja,
 [C]du begeisterst mich. [G]Halleluja, Hallelu[Dsus4]ja,
 [Em7]Halleluja, [C]du begeisterst mich.
+{end_of_chorus}
 
-{comment: Refrain nach Strophe 2 wiederholen; am Ende „du begeisterst mich“ wiederholen.}
+{start_of_verse: 2}
+{end_of_verse}
+
 {comment: Text und Melodie: Brian Doerksen und Brenton Brown; Deutsch: Daniel Jacobi. }

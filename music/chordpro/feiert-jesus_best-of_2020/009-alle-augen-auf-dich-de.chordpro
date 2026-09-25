@@ -3,28 +3,32 @@
 {language: de}
 {key: G}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [G]Ich komm zu dir, du siehst mich an, dein [D]Blick durchbricht den Alltagswahn.
 Bei [Em]dir zu sein, tut immer wieder [C]gut.
 [G]In deiner Nähe komm ich an, ein [D]Ort, an dem ich echt sein kann.
 Bei [Em]dir bin ich, so wie ich bin, [C]genug.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Alle Augen auf dich, den Gott, der größer [D]ist.
 Alle Augen auf dich, wir heben unsern [Em]Blick.
 Alle Augen auf [C]dich, den [G]Gott, der größer [D]ist.
 Alle Augen auf dich, du weitest unsre [Em]Sicht.
 [C]Alle Augen auf! [G]Oh, oh, oh, oh, [D]oh, oh, oh, [Em]oh, [C]oh, oh.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [G]Will mich nicht um mich selber drehn, mit [D]neuen Perspektiven sehn.
 Will [Em]spüren, dass du mich unendlich [C]liebst.
 [G]Ich such den Blick in dein Gesicht. In [D]deinem Licht erkenne ich
 die [Em]Spuren, die du durch mein Leben [C]ziehst.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Alle Augen auf dich, den Gott, der größer [D]ist.
 Alle Augen auf dich, wir heben unsern [Em]Blick.
 Alle Augen auf [C]dich, den [G]Gott, der größer [D]ist.
 Alle Augen auf dich, du weitest unsre [Em]Sicht.
 [C]Alle Augen auf! [G]Oh, oh, oh, oh, [D]oh, oh, oh, [Em]oh, [C]oh, oh.
+{end_of_chorus}

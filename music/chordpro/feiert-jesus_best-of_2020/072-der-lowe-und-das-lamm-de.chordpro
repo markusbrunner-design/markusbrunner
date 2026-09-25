@@ -3,10 +3,11 @@
 {language: de}
 {tempo: 88}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [E]Wenn Jesus wiederkommt, beugt sich alle [F#m7]Welt vor [A]ihm.
 [C#m]Ketten brechen, wenn zerbrochne [Bsus4]Herzen ihn verehrn.
 [A]Denn wer kann unsern Gott auf[Bsus4]halten?
+{end_of_verse}
 
 {start_of_chorus}
 [E]Denn er ist der Löwe, der [Bsus4]Löwe von Juda.
@@ -18,10 +19,11 @@
 [A]Jeder wird sich vor [Bsus4]ihm beugen.
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [E]Kommt, öffnet ihm das Tor und bahnt den [F#m7]Weg dem [A]Herrn der Herrn.
 Der [C#m]Gott, der uns erlöst, ist hier und [Bsus4]setzt Gefangne frei.
 [A]Denn wer kann unsern Gott auf[Bsus4]halten?
+{end_of_verse}
 
 {start_of_chorus}
 [E]Denn er ist der Löwe, der [Bsus4]Löwe von Juda.
@@ -33,9 +35,10 @@ Der [C#m]Gott, der uns erlöst, ist hier und [Bsus4]setzt Gefangne frei.
 [A]Jeder wird sich vor [Bsus4]ihm beugen.
 {end_of_chorus}
 
-{comment: Bridge}
+{start_of_bridge}
 [E]Wer kann unsern Gott aufhalten? [F#m7]Wer kann unsern [G#m]Gott auf[A]halten?
 [Bsus4]Niemand hält ihn auf!
+{end_of_bridge}
 
 {start_of_chorus}
 [E]Denn er ist der Löwe, der [Bsus4]Löwe von Juda.

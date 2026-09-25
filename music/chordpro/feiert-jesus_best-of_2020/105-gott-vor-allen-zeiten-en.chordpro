@@ -4,41 +4,47 @@
 {tempo: 88}
 {artist: Arne Kopfermann und Albert Frey}
 
-{comment: Verse 1}
+{start_of_verse: 1}
 [Em]Father [D]of cre[C]ation, [G/B] [Em]source of [D]all the [A/C#]light,
 [Em]fountain [D]of our [C]hope, [G/B] [Am7]all things [G/B]live through [D/F#]you.
 [Em]With your [D]arms out[C]stretched [G/B] [Em]you reach [D]out to us. [A/C#]
 [Em]Grace and [D]tender [C]mercy [G/B] [Am]call us [G/B]home to [D/F#]you.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]God before [D]all the [G]ages, [C] [G/B]
 [Am]God for [G/B]evermore, [D/F#]
 [G]God in three [G/B]persons: [C] [G/B]
 [A/C#]Father, [B/D#]Son and [Em]Spirit,
 [Am7]Father, [D]Son and [G]Spirit.
+{end_of_chorus}
 
-{comment: Verse 2}
+{start_of_verse: 2}
 [Em]Jesus, [D]friend of [C]sinners, [G/B] [Em]truly [D]God and [A/C#]man,
 [Em]mighty [D]over[C]comer, [G/B] [Am7]faithful [G/B]unto [D/F#]death.
 [Em]Raised in [D]victory, [C]Jesus, [G/B] [Em]lifted [D]up on high, [A/C#]
 [Em]you will [D]come in [C]glory [G/B] [Am]when this [G/B]world shall [D/F#]pass.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]God before [D]all the [G]ages, [C] [G/B]
 [Am]God for [G/B]evermore, [D/F#]
 [G]God in three [G/B]persons: [C] [G/B]
 [A/C#]Father, [B/D#]Son and [Em]Spirit,
 [Am7]Father, [D]Son and [G]Spirit.
+{end_of_chorus}
 
-{comment: Verse 3}
+{start_of_verse: 3}
 [Em]Spirit, [D]breathing [C]life in us, [G/B] [Em]giving [D]us our [A/C#]soul,
 [Em]building [D]us with [C]gifts [G/B] [Am7]and sus[G/B]taining [D/F#]us.
 [Em]Comfort [D]when we [C]sorrow, [G/B] [Em]guiding [D]us in truth, [A/C#]
 [Em]power [D]that in[C]spires us [G/B] [Am]and that [G/B]moves our [D/F#]hearts.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]God before [D]all the [G]ages, [C] [G/B]
 [Am]God for [G/B]evermore, [D/F#]
 [G]God in three [G/B]persons: [C] [G/B]
 [A/C#]Father, [B/D#]Son and [Em]Spirit,
 [Am7]Father, [D]Son and [G]Spirit.
+{end_of_chorus}

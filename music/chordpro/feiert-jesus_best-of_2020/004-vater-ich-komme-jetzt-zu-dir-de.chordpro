@@ -3,22 +3,26 @@
 {language: de}
 {key: E}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [E]Vater, ich komme jetzt zu dir, als dein [A/E]Kind lauf ich in deine [B]Arme.
 [E]Ich bin geborgen, du stehst zu mir, lieber [C#m]Va[B]ter.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [E/G#]Vater, bei [A]dir bin ich zu [B]Hause,
 [A]Vater, bei [E/G#]dir berge [A]ich mich.
 [B]Vater, bei [A/C#]dir finde ich [B]Ruhe,
 [A]o mein [E]Vater, [B7sus4]ich [E]liebe dich.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [E]Vater, du gibst mir, was ich brauch, du empfängst mich mit offenen [B]Armen.
 [E]Du füllst all meine Sehnsucht aus, lieber [C#m]Va[B]ter.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [E/G#]Vater, bei [A]dir bin ich zu [B]Hause,
 [A]Vater, bei [E/G#]dir berge [A]ich mich.
 [B]Vater, bei [A/C#]dir finde ich [B]Ruhe,
 [A]o mein [E]Vater, [B7sus4]ich [E]liebe dich.
+{end_of_chorus}

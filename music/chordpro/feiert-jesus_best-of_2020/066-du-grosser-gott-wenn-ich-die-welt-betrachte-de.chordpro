@@ -4,11 +4,12 @@
 {tempo: 80}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 Du großer [A]Gott, wenn ich [A/C#]die Welt be[D]trachte,
 die du ge[A]schaffen [E]durch dein Allmachts[A]wort,
 wenn ich auf [A]alle [A/C#]jene Wesen [D]achte,
 die du re[E]gierst und nährest fort und [A]fort,
+{end_of_verse}
 
 {start_of_chorus}
 Dann jauchzt mein [A]Herz dir, [D]großer Herrscher, [A]zu:
@@ -17,11 +18,12 @@ Dann jauchzt mein [A]Herz dir, [D]großer Herrscher, [A/C#]zu:
 [F#m7]Wie groß bist [Bm7]du! [E]Wie groß bist [D]du!
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 Blick ich em[A]por zu [A/C#]jenen lichten [D]Welten
 und seh der [A]Sterne [E]unzählbare [A]Schar,
 wie Sonn und [A]Mond im [A/C#]lichten Äther [D]zelten,
 gleich goldnen [E]Schiffen hehr und wunder[A]bar,
+{end_of_verse}
 
 {start_of_chorus}
 Dann jauchzt mein [A]Herz dir, [D]großer Herrscher, [A]zu:
@@ -30,11 +32,12 @@ Dann jauchzt mein [A]Herz dir, [D]großer Herrscher, [A/C#]zu:
 [F#m7]Wie groß bist [Bm7]du! [E]Wie groß bist [D]du!
 {end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 Wenn mir der [A]Herr in [A/C#]seinem Wort be[D]gegnet,
 wenn ich die [A]großen [E]Gnadentaten [A]seh,
 wie er das [A]Volk des [A/C#]Eigentums ge[D]segnet,
 wie er's ge[E]liebt, begnadigt je und [A]je,
+{end_of_verse}
 
 {start_of_chorus}
 Dann jauchzt mein [A]Herz dir, [D]großer Herrscher, [A]zu:
@@ -43,11 +46,12 @@ Dann jauchzt mein [A]Herz dir, [D]großer Herrscher, [A/C#]zu:
 [F#m7]Wie groß bist [Bm7]du! [E]Wie groß bist [D]du!
 {end_of_chorus}
 
-{comment: Strophe 4}
+{start_of_verse: 4}
 Und seh ich [A]Jesus [A/C#]auf der Erde [D]wandeln
 in Knechtsge[A]stalt, voll [E]Lieb und großer [A]Huld,
 wenn ich im [A]Geiste [A/C#]seh sein göttlich [D]Handeln,
 am Kreuz be[E]zahlen vieler Sünder [A]Schuld,
+{end_of_verse}
 
 {start_of_chorus}
 Dann jauchzt mein [A]Herz dir, [D]großer Herrscher, [A]zu:

@@ -5,7 +5,7 @@
 {time: 4/4}
 {tempo: 136}
 
-{comment: Strophe; Refrain moduliert nach F#}
+{start_of_verse}
 [E]Wer bei dir sich birgt, steht [A]fest auf einem Berg,
 denn du [C#m]bist seine Burg, sein [A]fester Turm.
 [E]Meine Augen richten sich [A]auf dich allein,
@@ -13,11 +13,14 @@ denn du [C#m]bist meine Burg, mein [A]fester Turm.
 [E]Ich vertrau auf deinen Namen, o [A]Herr,
 [C#m7]und ich preise deinen Namen, o [A]Herr,
 nur du bist für mich Sonne und Schild. [E]
+{end_of_verse}
 
-{comment: Refrain – Tonart F#}
+{start_of_chorus}
 {key: F#}
 [B]So hoch der Himmel ist, [F#]ist deine Gnade über mir,
 [C#m7]ist deine Gnade über mir. [E]
+{end_of_chorus}
+
 {comment: Beim zweiten Durchlauf:}
 [B]Wenn mein Herz voll Schatten ist, [F#]strahlt dein Lächeln über mir,
 [C#m7]strahlt dein Lächeln über mir. [E]

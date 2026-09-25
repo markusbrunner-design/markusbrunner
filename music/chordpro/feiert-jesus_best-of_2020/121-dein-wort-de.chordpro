@@ -5,44 +5,51 @@
 {tempo: 80}
 {language: de}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Dein Wort ist ein Licht auf [D]meinem Weg, [G]wenn ich
 [C]durch das [D]Dunkel [G]geh.
 [G]Dein Wort ist ein Licht auf [D]meinem Weg, [G]lässt mich
 [C]deine [D]Hilfe [G]sehn.
+{end_of_chorus}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [D]Nebel ringsumher, [Am]ich [Em]seh dich nicht [Bm]mehr,
 [C]kann den [D]Weg nicht mehr [C]se[G]hen. Doch
 [D]dein Wort ist das [Am]Licht, das [Em]durch den Nebel [Bm]bricht.
 [C]Du [D]führst mich an [Esus4]deiner [E]Hand. [Am][D]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Dein Wort ist ein Licht auf [D]meinem Weg, [G]wenn ich
 [C]durch das [D]Dunkel [G]geh.
 [G]Dein Wort ist ein Licht auf [D]meinem Weg, [G]lässt mich
 [C]deine [D]Hilfe [G]sehn.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [D]Mauern hart und kalt, [Am]ge[Em]ben keinen [Bm]Halt,
 [C]drohend [D]stehen sie vor [C]mir. [G]Doch
 [D]dein Wort ist mein [Am]Schwert, das [Em]aller Härte [Bm]wehrt.
 [C]Du [D]stellst mich auf [Esus4]weiten [E]Raum. [Am][D]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Dein Wort ist ein Licht auf [D]meinem Weg, [G]wenn ich
 [C]durch das [D]Dunkel [G]geh.
 [G]Dein Wort ist ein Licht auf [D]meinem Weg, [G]lässt mich
 [C]deine [D]Hilfe [G]sehn.
+{end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [D]Tränen wischst du fort, [Am]trös[Em]test durch dein [Bm]Wort,
 [C]Kraft zum [D]Leben gibst du [C]mir. [G]Und
 [D]wie ein weites [Am]Meer ist [Em]dein Wort, großer [Bm]Herr,
 [C]un[D]ergründlich [Esus4]tief und [E]reich. [Am][D]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [G]Dein Wort ist ein Licht auf [D]meinem Weg, [G]wenn ich
 [C]durch das [D]Dunkel [G]geh.
 [G]Dein Wort ist ein Licht auf [D]meinem Weg, [G]lässt mich
 [C]deine [D]Hilfe [G]sehn.
+{end_of_chorus}

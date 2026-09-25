@@ -2,28 +2,33 @@
 {song_number: 156}
 {language: de}
 
-{comment: 1. Strophe}
+{start_of_verse: 1}
 Du bist [F]gnädig, du bist [G]treu, [Am]du bist voller
 [F]Freundlichkeit. [G] [Am]Deine Liebe [F]fließt aus den [G]
 [Am]Strömen deiner [Em]Güte zu [F]uns. [G]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 Wir singen: [F]Majestät, du [G]thronst in [Am]Herrlichkeit.
 [C]Deine [F]Güte [G]währet [Am]ewig.
 Wir ver[F]ehren [G]dich, denn [Am]niemand kommt dir gleich.
 [C]Du bist [F]unser [G]Gott und [Am]König.
+{end_of_chorus}
 
-{comment: 2. Strophe}
+{start_of_verse: 2}
 Du bist [F]heilig und [G]gerecht, [Am]voller Sanftmut
 [F]und Geduld. [G] [Am]Tiefer Friede [F]liegt in dem [G]
 [Am]Schatten deiner [Em]Flügel für [F]uns. [G]
+{end_of_verse}
 
-{comment: Bridge}
+{start_of_bridge}
 Wir er[Am]heben deinen [F]Namen, Herr.
 Dir sei [Dm7]Ehre, Ruhm und [G]Macht.
+{end_of_bridge}
 
-{comment: Refrain}
+{start_of_chorus}
 Wir singen: [F]Majestät, du [G]thronst in [Am]Herrlichkeit.
 [C]Deine [F]Güte [G]währet [Am]ewig.
 Wir ver[F]ehren [G]dich, denn [Am]niemand kommt dir gleich.
 [C]Du bist [F]unser [G]Gott und [Am]König.
+{end_of_chorus}

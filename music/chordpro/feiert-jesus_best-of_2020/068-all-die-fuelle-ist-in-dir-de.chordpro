@@ -4,14 +4,16 @@
 {tempo: 122}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [C]All die Fülle ist in dir, o [Em7]Herr,
 und alle [F]Schönheit kommt von dir, o [G]Gott.
 [Am]All die Quelle des [Em]Lebens, [Am]lebendiges [Em]Wasser:
 [F]Halle[G]lu[C]ja!
+{end_of_verse}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [C]Du bist unser König, o [Em7]Herr,
 du sitzt auf dem [F]Thron, o [G]Gott.
 [Am]Meister des [Em]Lebens, [Am]ewiger [Em]Herrscher:
 [F]Halle[G]lu[C]ja!
+{end_of_verse}

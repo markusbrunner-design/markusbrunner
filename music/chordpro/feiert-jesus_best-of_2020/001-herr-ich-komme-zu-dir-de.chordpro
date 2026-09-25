@@ -3,18 +3,21 @@
 {language: de}
 {key: A}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [A]Herr, ich komme zu dir, und ich steh [D]vor dir, [A]so wie ich [E]bin.
 [A]Alles, was mich [Bm7]bewegt, lege [C#m7]ich vor [D]dich [Esus4][E]hin.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [A]Gib mir ein [D]neues, [A/C#]ungeteiltes [E]Herz.
 [A]Lege ein [D]neues [A/C#]Lied in meinen [E]Mund.
 [A]Fülle mich neu [D]mit deinem [A/C#]Geist, denn [Bm7]du [D/E]bewirkst dein [E]Lob in [A]mir.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [A]Herr, ich komme zu dir, und ich schütte [D]mein Herz bei dir [E]aus.
 [A]Was mich hindert, [Bm7]ganz bei dir zu sein, räume [C#m7]ich vor [D]dich [Esus4][E]aus.
+{end_of_verse}
 
 {comment: Abschluss}
 [F#m]Meine Sorgen sind dir nicht [C#m]verborgen.
@@ -22,7 +25,8 @@
 [F#m]Voll Vertrauen will [C#m]ich auf dich schauen.
 [D]Herr, ich [A]baue auf [Bm7]dich! [E]
 
-{comment: Refrain}
+{start_of_chorus}
 [A]Gib mir ein [D]neues, [A/C#]ungeteiltes [E]Herz.
 [A]Lege ein [D]neues [A/C#]Lied in meinen [E]Mund.
 [A]Fülle mich neu [D]mit deinem [A/C#]Geist, denn [Bm7]du [D/E]bewirkst dein [E]Lob in [A]mir.
+{end_of_chorus}

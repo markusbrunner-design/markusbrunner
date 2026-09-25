@@ -3,20 +3,23 @@
 {language: de}
 {key: E}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [E]Wie tief muss Gottes Liebe [F#m]sein! [E/G#]Er [A]liebt uns ohne [E/G#]Maßen,
 [C#m7]hat seinen Sohn an unsrer [F#m]Statt für [E/G#]alles [A]büßen [B]lassen.
 [E/G#]Als alle Sünde auf ihm [A/C#]lag, der [E/B]Vater sein Gesicht ver[B]barg,
 [E/G#]als er, der Auserwählte, [A]starb, gab [E/B]er uns neues [E]Leben.
+{end_of_verse}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [E]Ich schaue auf den Mann am [F#m]Kreuz, kann [E/G#]meine [C#m7]Schuld dort [B]sehen.
 [E]Und voll Beschämung sehe ich [F#m]mich [E/G#]bei den [A]Spöttern [B]stehen.
 [E/G#]Für meine Sünden hing er [A/C#]dort, sie [E/B]brachten ihn ums [B]Leben.
 [E/G#]Sein Sterben hat sie ausge[A]löscht. Ich [E/B]weiß, mir ist ver[E]geben.
+{end_of_verse}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [E]Ich werde keiner Macht der [F#m]Welt und [E/G#]keiner [C#m7]Weisheit [B]trauen.
 [E]Auf Jesu Tod und Auferstehn [F#m]will [E/G#]ich mein [A]Leben [B]bauen.
 [E/G#]Ich hab das alles nicht ver[A/C#]dient, ich [E/B]leb durch seine [B]Gnade.
 [E/G#]Sein Blut bezahlt für meine [A]Schuld, da[E/B]mit ich Leben [E]habe.
+{end_of_verse}

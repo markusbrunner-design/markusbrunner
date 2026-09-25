@@ -4,10 +4,11 @@
 {tempo: 93}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [E]Ich kann nicht schweigen [E/D#]von dem, was du ge[C#m7]tan [A]hast.
 [E]Du gabst dein Leben [E/D#]um mich zu be[C#m7]frein. [A]
 [B]Und wenn ich daran denke, wie [F#m]sehr du mich liebst,
+{end_of_verse}
 
 {start_of_chorus}
 [E]Ich kann nicht [E/G#]anders, als [A]zu [B]singen.
@@ -16,10 +17,11 @@
 [A]prei[B]sen mein ganzes [E]Leben lang.
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [E]Ich kann nicht leugnen, [E/D#]was du für mich be[C#m7]deu[A]test.
 [E]Mein ganzes Leben [E/D#]gehört dir al[C#m7]lein. [A]
 [B]Und was ich dir verdanke, dann [F#m]jubelt mein Herz.
+{end_of_verse}
 
 {start_of_chorus}
 [E]Ich kann nicht [E/G#]anders, als [A]zu [B]singen.
@@ -28,4 +30,5 @@
 [A]prei[B]sen mein ganzes [E]Leben lang.
 {end_of_chorus}
 
-{comment: Die beiden Strophentexte stehen in denselben Notenzeilen; Refrain nach jeder Strophe.}
+{start_of_verse}
+{end_of_verse}

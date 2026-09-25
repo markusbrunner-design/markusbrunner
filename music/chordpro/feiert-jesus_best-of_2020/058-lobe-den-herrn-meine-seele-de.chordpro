@@ -3,9 +3,10 @@
 {tempo: 120}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [E]Der dir all deine Schuld vergibt, der dich mit deinen Fehlern
 [Dm]liebt, der alle deine Krankheit heilt, der alle deine Schmerzen [E]teilt.
+{end_of_verse}
 
 {start_of_chorus}
 [E]Lobe den Herrn, meine [Am]Seele, meine Seele
@@ -14,9 +15,10 @@
 [G]lobe den [F]Herrn. [E]
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [E]Der dich errettet vor dem Tod und der dir beisteht in der
 [Dm]Not, der dich mit Huld und Gnade krönt, der dich mit seiner Gunst ver[E]wöhnt.
+{end_of_verse}
 
 {start_of_chorus}
 [E]Lobe den Herrn, meine [Am]Seele, meine Seele
@@ -25,13 +27,15 @@
 [G]lobe den [F]Herrn. [E]
 {end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [E]Er handelt nicht nach unsrer Schuld, denn er ist gnädig, hat Ge[Dm]duld.
 Wir, die ihn fürchten, sind gewiss, dass er uns kennt und nicht ver[E]gisst.
+{end_of_verse}
 
-{comment: Nur nach Strophe 2 und 3}
+{start_of_verse: 2}
 [F]Er macht dein Leben wieder [E]neu,
 und wie ein [F]Adler fliegst du [E]frei.
+{end_of_verse}
 
 {start_of_chorus}
 [E]Lobe den Herrn, meine [Am]Seele, meine Seele

@@ -6,28 +6,33 @@
 {time: 4/4}
 {tempo: 98}
 
-{comment: Verse 1}
+{start_of_verse: 1}
 [C]Your love is amazing, [G]steady and unchanging.
 [C]Your love is a mountain, [Dsus4]firm beneath my feet.
 [C]Your love is a mystery, [G]how You gently lift me
 [C]when I am surrounded; [Dsus4]Your love carries me.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]Hallelujah, Hallelu[Dsus4]jah, Hallelu[Em7]jah,
 [C]Your love makes me sing. [G]Hallelujah, Hallelu[Dsus4]jah,
 [Em7]Hallelujah, [C]Your love makes me sing.
+{end_of_chorus}
 
-{comment: Verse 2}
+{start_of_verse: 2}
 [C]Your love is surprising, [G]I can feel it rising,
 [C]all the joy that's growing [Dsus4]deep inside of me.
 [C]Ev'ry time I see You, [G]all Your goodness shines through;
 [C]I can feel this God song [Dsus4]rising up in me.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]Hallelujah, Hallelu[Dsus4]jah, Hallelu[Em7]jah,
 [C]Your love makes me sing. [G]Hallelujah, Hallelu[Dsus4]jah,
 [Em7]Hallelujah, [C]Your love makes me sing.
+{end_of_chorus}
 
-{comment: Repeat chorus after verse 2; repeat “Your love makes me sing” at the end.}
+{start_of_verse: 2}
+{end_of_verse}
 
 {comment: Brian Doerksen and Brenton Brown. }

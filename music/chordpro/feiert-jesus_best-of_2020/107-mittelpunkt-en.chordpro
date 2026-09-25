@@ -4,42 +4,49 @@
 {tempo: 93}
 {artist: Juri Friesen und Pala Friesen}
 
-{comment: Verse 1}
+{start_of_verse: 1}
 [Em]Like a king [D/F#] [G]your light [C]shines. [G]
 [Em]You are [C]everlasting; [G]none compares with [D]you.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]Be the [D/F#]center of my [Em]life,
 the [C]center of my [G]heart;
 I [Bm]belong to you. [Em]
 [C]Be [G]the [D/F#]center in my [Em]weakness,
 the [C]center in my [G]strength;
 I [Bm]belong to you. [Em][C]
+{end_of_chorus}
 
-{comment: Verse 2}
+{start_of_verse: 2}
 [Em]Gently you [D/F#] [G]lead me [C]on [G]
 [Em]into [C]your light. [G]I may dwell with [D]you.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]Be the [D/F#]center of my [Em]life,
 the [C]center of my [G]heart;
 I [Bm]belong to you. [Em]
 [C]Be [G]the [D/F#]center in my [Em]weakness,
 the [C]center in my [G]strength;
 I [Bm]belong to you. [Em][C]
+{end_of_chorus}
 
-{comment: Bridge}
+{start_of_bridge}
 [C]I want to be near you; [Em7]I will [D]follow you. [G][Bm]
 [C]I want to lose [Em7]my whole life in [D]you.
+{end_of_bridge}
 
-{comment: Bridge}
+{start_of_bridge}
 [C]I want to be near you; [Em7]I will [D]follow you. [G][Bm]
 [C]I want to lose [Em7]my whole life in [D]you.
+{end_of_bridge}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]Be the [D/F#]center of my [Em]life,
 the [C]center of my [G]heart;
 I [Bm]belong to you. [Em]
 [C]Be [G]the [D/F#]center in my [Em]weakness,
 the [C]center in my [G]strength;
 I [Bm]belong to you. [Em][C]
+{end_of_chorus}

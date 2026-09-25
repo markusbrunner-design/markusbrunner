@@ -4,10 +4,11 @@
 {tempo: 128}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [C]Unser Gott ist [G]heilig, [Am]unser Gott ist [G]mächtig. [D] [Am]
 [C]Lobt den Herrn im [G]Himmel, [Am]lobt ihn auf der [G]Erde! [D] [Am]
 [C]Lobt den Herrn mit [G]Singen, [D]lobt den Herrn mit [G]Tanzen! [D] [Am]
+{end_of_verse}
 
 {start_of_chorus}
 [C]Alles, was [G]atmet, lobe den Herrn, [A]alles, was
@@ -15,13 +16,14 @@
 [E/G#]alles, was [C]atmet, [G]lobe den [A]Herrn!
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [C]Lobt den Herrn mit [G]Trommeln, [Am]lobt den Herrn mit [G]Zimbeln. [D] [Am]
 [C]Lobt ihn mit Po[G]saunen, [Am]lobt ihn auf den [G]Saiten! [D] [Am]
 [C]Spielt zu seiner [G]Ehre, [D]gebt ihm euer [G]Bestes! [D] [Am]
 
 [Am]Lobt ihn voll Freude, [C]lobt ihn von Herzen,
 [D]lobt unsern Gott! [A]
+{end_of_verse}
 
 {start_of_chorus}
 [C]Alles, was [G]atmet, lobe den Herrn, [A]alles, was
@@ -29,4 +31,5 @@
 [E/G#]alles, was [C]atmet, [G]lobe den [A]Herrn!
 {end_of_chorus}
 
-{comment: D.C. al Fine: Nach dem Refrain zum Anfang zurück; am Fine vor dem Refrain enden.}
+{start_of_chorus}
+{end_of_chorus}

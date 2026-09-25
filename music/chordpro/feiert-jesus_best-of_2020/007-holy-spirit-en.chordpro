@@ -3,32 +3,37 @@
 {language: en}
 {key: G}
 
-{comment: Verse 1}
+{start_of_verse: 1}
 [G]There's nothing worth more that will ever come close.
 [Cmaj7]No thing can compare; You're our living hope.
 [G]Your Presence, [Cmaj7]Lord.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]Holy Spirit, You are welcome here.
 [Cmaj7]Come flood this place and fill the [Am7]atmosphere.
 [G]Your glory, God, is what our hearts long for,
 [Cmaj7]to be overcome by Your [Am7]Presence, Lord,
 [Cmaj7]Your [Am7]Presence, Lord.
+{end_of_chorus}
 
-{comment: Verse 2}
+{start_of_verse: 2}
 [G]I've tasted and seen of the sweetest of loves,
 [Cmaj7]where my heart becomes free and my shame is undone,
 [G]in Your Presence, [Cmaj7]Lord.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]Holy Spirit, You are welcome here.
 [Cmaj7]Come flood this place and fill the [Am7]atmosphere.
 [G]Your glory, God, is what our hearts long for,
 [Cmaj7]to be overcome by Your [Am7]Presence, Lord,
 [Cmaj7]Your [Am7]Presence, Lord.
+{end_of_chorus}
 
-{comment: Bridge}
+{start_of_bridge}
 [G]Let us become more aware of Your Presence.
 Let us experience the glory of Your goodness.
 [Cmaj7]Let us become more aware of Your [G/B]Presence.
 [Am7]Let us experience the glory of Your [G/B]goodness.
+{end_of_bridge}

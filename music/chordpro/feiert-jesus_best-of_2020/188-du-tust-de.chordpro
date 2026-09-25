@@ -10,11 +10,12 @@
 [A]ich sehn mich nach Frieden, was ich auch [B]tu, am Ziel meiner Suche stehst du.
 {end_of_verse}
 
-{comment: Nach Strophe 1 und 2}
+{start_of_verse: 1}
 [E]Mein Freudeschenker, mein Heimatgeber,
 [B]mein Glücklichmacher und mein Schuldvergeber,
 [A/C#]mein Friedensbringer und mein Worteinhalter,
 [B]mein Liebesspender bist du.
+{end_of_verse}
 
 {start_of_chorus}
 [E]Du tust im Innern meiner [B/E]Seele gut, und
@@ -29,11 +30,12 @@
 [A]Meine Schuld braucht Vergebung, was ich auch [B]tu, am Ende des Weges stehst du.
 {end_of_verse}
 
-{comment: Nach Strophe 1 und 2}
+{start_of_verse: 1}
 [E]Mein Freudeschenker, mein Heimatgeber,
 [B]mein Glücklichmacher und mein Schuldvergeber,
 [A/C#]mein Friedensbringer und mein Worteinhalter,
 [B]mein Liebesspender bist du.
+{end_of_verse}
 
 {start_of_chorus}
 [E]Du tust im Innern meiner [B/E]Seele gut, und

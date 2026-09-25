@@ -4,11 +4,12 @@
 {time: 4/4}
 {key: G}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [C]Wunder geschehn, [G/B]wenn du [Am]sprichst.
 [C]Alles ist möglich, [G/B]wenn du hier [Am]bist.
 [C]Nichts bleibt, wie es [G/B]ist, weil dein [C/E]Name unser [D/F#]Leben ist.
 [G]So bist nur du, [D]Herr.
+{end_of_verse}
 
 {start_of_chorus}
 [G]Wir lieben deinen Namen. [Dsus4]
@@ -17,10 +18,11 @@
 [Dsus4]wir hörn nicht auf zu [D]singen.
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [C]Wer einst Bettler war, [G/B]wird [Am]reich.
 [C]Und dem Kranken schenkst du [G/B]Heil. [Am]
 [C]Waisenkindern reichst du [G/B]deine [C/E]Hand und trägst sie [D/F#]heim.
+{end_of_verse}
 
 {start_of_chorus}
 [G]Wir lieben deinen Namen. [Dsus4]
@@ -29,12 +31,13 @@
 [Dsus4]wir hörn nicht auf zu [D]singen.
 {end_of_chorus}
 
-{comment: Bridge (nach dem letzten Refrain)}
+{start_of_chorus}
 Es ist recht, dich zu [G]lieben, Herr.
 Es ist [D/F#]recht, dich zu [Em]loben, Herr.
 Es ist [Bm]recht, dich zu [Cmaj7]lieben, Herr.
 Denn [G/B]niemand kommt dir [D]gleich.
 Es ist recht, dich zu [G]lieben, Herr.
+{end_of_chorus}
 
 {start_of_chorus}
 [G]Wir lieben deinen Namen. [Dsus4]

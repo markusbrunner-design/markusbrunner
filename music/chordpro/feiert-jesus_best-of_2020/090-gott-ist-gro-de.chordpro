@@ -6,41 +6,48 @@
 {time: 4/4}
 {tempo: 162}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [C]Alle Schöpfung [F]staunt und preist, [Gsus4]
 [C]betet an in [F]Wahrheit und im [Gsus4]Geist.
 [Am7]Ehre dir [F]auf deinem [Gsus4]Thron,
 [Am7]Jesus, [G]Gottes [F]Sohn. [G]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [C]Gott ist groß und sein [F]Lob füllt die Erde [G]und den [F]Himmel.
 [C]Alle Welt erhebt den [Am7]Namen unsres [Gsus4]Herrn.
 [C]Gott ist groß, singt sein [F]Lob, alle [G]Welt mit dem [F]Himmel,
 denn wir [Am7]leben für die [F]Ehre unsres [Gsus4]Herrn, die [F]Ehre unsres [Gsus4]Herrn.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [C]Alle Schöpfung [F]singt dein Lob. [Gsus4]
 [C]Du bist [F]mächtig, du bist [Gsus4]groß.
 [Am7]Du bist Gott [F]und du re[Gsus4]gierst,
 [Am7]bis in [G]Ewig[F]keit. [G]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [C]Gott ist groß und sein [F]Lob füllt die Erde [G]und den [F]Himmel.
 [C]Alle Welt erhebt den [Am7]Namen unsres [Gsus4]Herrn.
 [C]Gott ist groß, singt sein [F]Lob, alle [G]Welt mit dem [F]Himmel,
 denn wir [Am7]leben für die [F]Ehre unsres [Gsus4]Herrn, die [F]Ehre unsres [Gsus4]Herrn.
+{end_of_chorus}
 
-{comment: Strophe 3}
+{start_of_verse: 3}
 [C]Jesus, hör unser [F]Gebet. [Gsus4]
 [C]Zeig uns, wie man [F]richtig [Gsus4]lebt.
 [C]Feuer Gottes, [F]leuchte hell, [Gsus4]
 [Am7]dass alle [G]Welt es [F]hört und [Gsus4]sieht.
+{end_of_verse}
 
-{comment: Bridge}
+{start_of_bridge}
 [C]„Heilig [F]ist der [Gsus4]Herr!“ Die [Am7]Schöpfung singt,
 [F]die Schöpfung [Gsus4]singt.
+{end_of_bridge}
 
-{comment: Bridge nach dem zweiten Refrain; beim vierten Durchlauf zur Coda.}
+{start_of_chorus}
+{end_of_chorus}
 
 {comment: Coda}
 [Gsus4]Denn wir [Am7]leben für die [F]Ehre unsres [Gsus4]Herrn,

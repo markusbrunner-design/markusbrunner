@@ -5,11 +5,12 @@
 {tempo: 168}
 {language: de}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [Am]Schöpfer aller Him[Em]mel, [Am]der die Welt ge[Em]macht,
 [F]dein größtes Werk hast du [Dm]in mir voll[Esus4]bracht. [E]
 [Am]Engel wollen sin[Em]gen [Am]von dem, was du mir [Em]gabst:
 [F]Liebe, die niemals ein [Dm]Ende [Esus4]hat. [E]
+{end_of_verse}
 
 {start_of_chorus}
 [Am]In dir, o [F]Herr, er[G]füllt sich mein Ge[C]bet,
@@ -18,11 +19,12 @@
 [F]Voll Ehrfurcht steh ich [Esus4]hier und [E]bet dich [Am]an.
 {end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [Am]Schöpfer aller Him[Em]mel, [Am]der die Welt ge[Em]macht,
 [F]dein Angesicht erhellt die [Dm]tiefste [Esus4]Nacht. [E]
 [Am]Seitdem ich dich ge[Em]funden, [Am]liebe ich dich, [Em]Herr.
 [F]Nach dir allein verlangt mein [Dm]Herz so [Esus4]sehr. [E]
+{end_of_verse}
 
 {start_of_chorus}
 [Am]In dir, o [F]Herr, er[G]füllt sich mein Ge[C]bet,

@@ -6,27 +6,31 @@
 {time: 4/4}
 {tempo: 85}
 
-{comment: Verse 1}
+{start_of_verse: 1}
 [Em7]Lord of all creation, [C]
 [Dsus4]of water, [Em7]earth and [C]sky;
 [Dsus4]the heavens [Em7]are Your tabernacle; [C]
 [Dsus4]glory to [Em7]the Lord on [C]high.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]God of wonders beyond our gala[D]xy. You are [Am7]holy, [C]holy;
 [G]the universe declares Your maje[D]sty. You are [Am7]holy, [C]holy;
 Lord of [G]heaven and [C]earth, Lord of [G]heaven and [C]earth.
+{end_of_chorus}
 
-{comment: Verse 2}
+{start_of_verse: 2}
 [Em7]Early in the morning [C]
 [Dsus4]I will [Em7]celebrate the [C]light.
 [Dsus4]And as I [Em7]stumble in the darkness, [C]
 [Dsus4]I will [Em7]call Your name by [C]night.
+{end_of_verse}
 
-{comment: Chorus}
+{start_of_chorus}
 [G]God of wonders beyond our gala[D]xy. You are [Am7]holy, [C]holy;
 [G]the universe declares Your maje[D]sty. You are [Am7]holy, [C]holy;
 Lord of [G]heaven and [C]earth, Lord of [G]heaven and [C]earth.
+{end_of_chorus}
 
 {comment: Coda}
 [Em]Hallelujah to the [C]Lord of [D]heaven and [Em]earth.

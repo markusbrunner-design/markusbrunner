@@ -2,7 +2,7 @@
 {song_number: 160}
 {language: de}
 
-{comment: 1. Strophe}
+{start_of_verse: 1}
 Für [A]den [D]König, [E]für den [A]Herrn,
 für ihn [D]geben [E]wir uns [F#sus4]hin. [F#]
 Seine [D]Ehre, [E]unser [F#m]Ziel,
@@ -11,14 +11,16 @@ Für den [A]König, [D]für sein [E]Reich,
 alle [A]Menschen [D]sind hier [E]gleich.
 [F#sus4]Lamm und [F#]Löwe [D]sind ver[E]eint,
 und das [F#m]Licht der [D]Gerech[Bm]tigkeit [Esus4]scheint. [E]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [A]Alle [E]Ehre, [F#m]König [C#]Jesus,
 [D]unsre [A]Herzen, sie [Bm]fliegen dir [C#sus4]zu. [C#]
 Wir er[F#m]heben [E]deinen [A]Namen,
 der al[F#m]lein [C#]wahre [D]König [Bm7]bist [Esus4]du. [E]
+{end_of_chorus}
 
-{comment: 2. Strophe}
+{start_of_verse: 2}
 Für [A]den [D]König, [E]für sein [A]Schwert,
 Wort, das [D]trifft und [E]Wahrheit [F#sus4]lehrt, [F#]
 unsre [D]Freiheit [E]garan[F#m]tiert,
@@ -27,9 +29,11 @@ Für den [A]König, [D]für sein [E]Volk,
 für die [A]Heerschar, [D]die ihm [E]folgt,
 [F#sus4]ihm, der [F#]uns sein [D]Leben [E]gibt.
 Lasst uns [F#m]lieben, [D]so wie [Bm]er uns [Esus4]liebt. [E]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [A]Alle [E]Ehre, [F#m]König [C#]Jesus,
 [D]unsre [A]Herzen, sie [Bm]fliegen dir [C#sus4]zu. [C#]
 Wir er[F#m]heben [E]deinen [A]Namen,
 der al[F#m]lein [C#]wahre [D]König [Bm7]bist [Esus4]du. [E]
+{end_of_chorus}

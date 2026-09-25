@@ -3,28 +3,32 @@
 {language: de}
 {tempo: 72}
 
-{comment: Strophe}
+{start_of_verse}
 [A]Du sagst, wo die Sonne aufgeht, du bestimmst [D]den [A]Lauf der Zeit,
 zeigst der [D]Dunkelheit die [F#m7]Grenzen und du spannst [D]den Himmel [E]weit.
 Du [A]liebst den, der's nicht verdient hat, hilfst dem [D]Schwachen aufzu[A]stehn,
 wählst den [D]Tod für meine [F#m7]Rettung, gibst mir [D]Kraft, nach vorn zu [E]sehn.
 Es gibt [D]keinen, der dir [A]gleicht.
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [E]Du, mein Gott, bist größer, [A]höher, weiter als der Himmel,
 [Esus4]deine Liebe ist [E]tiefer als das Meer.
 Und was du sagst, [A]bleibt. Es bleibt [F#m]für alle [E]Zeit.
 Darum [A]halt ich fest [D]an dir, [Esus4]dem [E]Schöpfer der [A]Welt.
+{end_of_chorus}
 
-{comment: Bridge}
+{start_of_bridge}
 [A]Jesus, du stehst hoch über allem.
 [D]Ich will dich ehren mit allem in mir.
 [E]Ich werd deine Wege niemals ganz verstehn.
 [A]Ich kann dich nicht greifen,
 [D]doch mein Herz kann dich sehn.
+{end_of_bridge}
 
-{comment: Refrain}
+{start_of_chorus}
 [E]Du, mein Gott, bist größer, [A]höher, weiter als der Himmel,
 [Esus4]deine Liebe ist [E]tiefer als das Meer.
 Und was du sagst, [A]bleibt. Es bleibt [F#m]für alle [E]Zeit.
 Darum [A]halt ich fest [D]an dir, [Esus4]dem [E]Schöpfer der [A]Welt.
+{end_of_chorus}

@@ -3,27 +3,31 @@
 {language: de}
 {key: F}
 
-{comment: Strophe 1}
+{start_of_verse: 1}
 [F]Auf den Flügeln des Windes, auf den Wolken kommt er.
 [Dm7]In Gestalt eines Kindes [C]kommt der Herr. [Bb]
 [F]Er kam als der Erlöser, er kommt in unsre Zeit.
 [Dm7]Er wird kommen in großer [C]Herrlichkeit. [Bb]
+{end_of_verse}
 
-{comment: Refrain}
+{start_of_chorus}
 [F]Ehre sei Gott in der [Bb]Höhe, er steigt hinab in die [F/A]Tiefe.
 [Bb/D]Ehre sei Gott, [Dm7]der uns seinen [C]Frieden [Bb]bringt.
+{end_of_chorus}
 
-{comment: Strophe 2}
+{start_of_verse: 2}
 [F]Er wohnt, wo man ihn einlässt, vor der Tür klopft er an.
 [Dm7]Wo man ihn den Herrn sein lässt, [C]kommt er an. [Bb]
 [F]Er will uns Leben geben wie ein Mahl, wie ein Fest.
 [Dm7]Und das Brot dieses Lebens [C]ist er selbst. [Bb]
+{end_of_verse}
 
 {comment: Gemeinsamer Abschluss}
 [Bb]Er kommt durch die [F]Zeit, macht euch [C]auf, [Dm7]seid bereit.
 [Bb]Er kommt in der [F]Nacht, findet [C]jeden, [Dm7]der wacht.
 [Bb]Er kommt in die [F]Welt und er [C]schlägt auf sein [Dm7]Zelt unter uns.
 
-{comment: Refrain}
+{start_of_chorus}
 [F]Ehre sei Gott in der [Bb]Höhe, er steigt hinab in die [F/A]Tiefe.
 [Bb/D]Ehre sei Gott, [Dm7]der uns seinen [C]Frieden [Bb]bringt.
+{end_of_chorus}

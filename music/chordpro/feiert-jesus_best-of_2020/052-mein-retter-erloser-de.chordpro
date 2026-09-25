@@ -5,7 +5,7 @@
 {tempo: 132}
 {language: de}
 
-{comment: Strophe}
+{start_of_verse}
 [E]Mein Retter, [Esus4]Erlöser,
 [E]du zogst mich aus der [Esus4]Finsternis.
 [E]Du handelst [Esus4]allmächtig.
@@ -13,6 +13,7 @@
 Du kamst zu [C#m7]uns,
 her aus Ewigkeiten [A]auf die Erde hier,
 [E]du selbst, der [B]Gottessohn.
+{end_of_verse}
 
 {start_of_chorus}
 Weil du [E]lebst, weil du [B/D#]starbst,
