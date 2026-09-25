@@ -2,7 +2,6 @@
 {song_number: 168}
 {language: en}
 {tempo: 66}
-{comment: Marc James}
 
 {start_of_verse: 1}
 [E]I'm giving You my heart and [B]all that is within.
@@ -10,6 +9,13 @@
 [E]I'm giving You my dreams, [B]I'm laying down my rights;
 [A]I'm giving up my [B]pride [C#m]for the promise of new [E]life.
 {end_of_verse}
+
+{start_of_chorus}
+[C#m]And I sur[B]render all to [E]You,
+[A]all to [E]You.
+[C#m]And I sur[B]render all to [E]You,
+[A]all to [E]You.
+{end_of_chorus}
 
 {start_of_verse: 2}
 [E]I'm singing You this song, I'm [B]waiting at the cross,

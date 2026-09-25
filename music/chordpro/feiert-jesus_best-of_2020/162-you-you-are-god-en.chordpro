@@ -2,7 +2,6 @@
 {song_number: 162}
 {language: en}
 {tempo: 130}
-{comment: Walker Beach}
 
 {start_of_verse: 1}
 [C]Here I am, I've come to find You;
@@ -12,6 +11,13 @@
 [Am]How can I do anything but [Bb]praise,
 [F]I [G]praise?
 {end_of_verse}
+
+{start_of_chorus}
+[C]You, You are God; [Bb]You are Lord;
+[Am]You are all I'm [F]living for;
+[C]You are King of [Bb]everything;
+[Am]I want my life to [F]praise [C]You.
+{end_of_chorus}
 
 {start_of_verse: 2}
 [C]Here I am, I've come to thank You;

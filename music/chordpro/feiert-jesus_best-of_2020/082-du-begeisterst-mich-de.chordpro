@@ -5,11 +5,17 @@
 {key: G}
 {time: 4/4}
 {tempo: 98}
+
 {comment: Strophe 1}
 [C]Deine Liebe trägt mich, [G]festigt und erhebt mich.
 [C]Sie ist wie ein Felsen, [Dsus4]auf dem ich sicher steh.
 [C]Deine Liebe stärkt mich, [G]sie ist sanft und zärtlich.
 [C]Ich kann es kaum fassen, [Dsus4]sie wird nicht vergehn.
+
+{comment: Refrain}
+[G]Halleluja, Hallelu[Dsus4]ja, Hallelu[Em7]ja,
+[C]du begeisterst mich. [G]Halleluja, Hallelu[Dsus4]ja,
+[Em7]Halleluja, [C]du begeisterst mich.
 
 {comment: Strophe 2}
 [C]Deine Liebe spür ich. [G]Du bist immer für mich.
@@ -21,5 +27,6 @@
 [G]Halleluja, Hallelu[Dsus4]ja, Hallelu[Em7]ja,
 [C]du begeisterst mich. [G]Halleluja, Hallelu[Dsus4]ja,
 [Em7]Halleluja, [C]du begeisterst mich.
+
 {comment: Refrain nach Strophe 2 wiederholen; am Ende „du begeisterst mich“ wiederholen.}
-{comment: Text und Melodie: Brian Doerksen und Brenton Brown; Deutsch: Daniel Jacobi. Quelle: S. 146–147.}
+{comment: Text und Melodie: Brian Doerksen und Brenton Brown; Deutsch: Daniel Jacobi. }

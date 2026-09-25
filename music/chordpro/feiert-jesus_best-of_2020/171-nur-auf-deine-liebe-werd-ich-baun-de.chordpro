@@ -3,11 +3,19 @@
 {tempo: 70}
 {time: 4/4}
 {key: E}
+
 {comment: Strophe 1}
 [E]Würdig all unsrer Lieder [A]bist du allein.
 [E/G#]Würdig all unsres Lobs [A]wirst du immer sein.
 [E]Würdig, nun jeden Atemzug [A]dir zu weihn.
 [E/G#]Wir sind ganz [A]dein.
+
+{start_of_chorus}
+[A]Heilig, nichts und niemand [F#m]gleicht dir, alles unter[E]steht dir.
+Lass mich sehn und lass mich [C#m7]staunen. Herr,
+[A]offenbare dich und leg [F#m]dein Herz in mich.
+Führ [E]mich durch deine Liebe [C#m7]zu den Menschen.
+{end_of_chorus}
 
 {comment: Strophe 2}
 [E]Jesus, kein Name wird [A]jemals höher sein.
@@ -25,5 +33,12 @@ Führ [E]mich durch deine Liebe [C#m7]zu den Menschen.
 {comment: Bridge (nach Vorlage wiederholen)}
 [A]Nur auf deine [B]Liebe werd ich [C#m7]baun, denn sie wird [E/G#]nie vergehn.
 [A]Nur in deine [B]Kraft setz ich [C#m7]Vertraun. So kann ich [E/G#]sicher stehn.
+
+{start_of_chorus}
+[A]Heilig, nichts und niemand [F#m]gleicht dir, alles unter[E]steht dir.
+Lass mich sehn und lass mich [C#m7]staunen. Herr,
+[A]offenbare dich und leg [F#m]dein Herz in mich.
+Führ [E]mich durch deine Liebe [C#m7]zu den Menschen.
+{end_of_chorus}
 
 {comment: Text/Melodie: Pat Barrett, Matt Redman, Brett Younker, Kirby Kaple, Karl Martin; dt. Text: Joseph Kortmann, Daniel Irmisch, Birgit Irmisch · © 2016 (siehe Vorlage)}

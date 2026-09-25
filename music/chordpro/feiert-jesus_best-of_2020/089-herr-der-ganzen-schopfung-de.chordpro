@@ -5,11 +5,17 @@
 {key: G}
 {time: 4/4}
 {tempo: 85}
+
 {comment: Strophe 1}
 [Em7]Herr der ganzen Schöpfung, [C]
 [Dsus4]du spannst den [Em7]Himmel [C]weit.
 [Dsus4]Dein Licht er[Em7]füllt das Univer[C]sum,
 [Dsus4]du re[Em7]gierst in Herrlich[C]keit.
+
+{comment: Refrain}
+[G]Deine Größe erfüllt das ganze [D]All. Du bist [Am7]heilig, [C]heilig.
+[G]Und klein vor dir ist selbst der Sterne [D]Zahl. Du bist [Am7]heilig, [C]heilig.
+Du be[G]herrschst alle [C]Welt, du be[G]herrschst alle [C]Welt.
 
 {comment: Strophe 2}
 [Em7]Schon am frühen Morgen [C]
@@ -26,4 +32,5 @@ Du be[G]herrschst alle [C]Welt, du be[G]herrschst alle [C]Welt.
 [Em]Halleluja, wir er[C]heben [D]unseren [Em]Gott.
 [Em]Halleluja, wir er[C]heben [D]unseren [Em]Gott.
 [Em]Halleluja, wir er[C]heben [D]unseren [G]Gott.
-{comment: Text und Melodie: Marc Byrd und Steve Hindalong; Deutsch: Arne Kopfermann. Quelle: S. 158–159.}
+
+{comment: Text und Melodie: Marc Byrd und Steve Hindalong; Deutsch: Arne Kopfermann. }

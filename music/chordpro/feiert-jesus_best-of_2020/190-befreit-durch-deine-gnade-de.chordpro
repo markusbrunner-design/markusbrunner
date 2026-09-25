@@ -3,7 +3,6 @@
 {language: de}
 {key: E}
 {tempo: 152}
-{comment: Juliane Eva Eberwein und Claus-Peter Eberwein}
 
 {start_of_verse: Strophe 1}
 [E]Befreit durch deine Gnade erschließt sich mir ein [B]neuer Horizont.
@@ -11,6 +10,13 @@
 [B/D#]Lass mich durch deine Augen sehn, [A]erkennen, welchen Mensch du in mir siehst,
 und mach mir klar: [B]Was du sagst, ist [A]wahr. [E]
 {end_of_verse}
+
+{start_of_chorus}
+[E]Deine Gnade reicht [B/D#]bis ans Ende der Welt.
+[F#m7]Von dir geliebt, [A]macht mein Leben Sinn.
+[E]Meine schönste Melodie [B/D#]erzählt nun [F#m7]für alle Zeit
+[A]von deiner Liebe, die [E]bleibt.
+{end_of_chorus}
 
 {start_of_verse: Strophe 2}
 [E]Ergriffen von der Wahrheit fängt meine Seele [B/D#]langsam an zu sehn.

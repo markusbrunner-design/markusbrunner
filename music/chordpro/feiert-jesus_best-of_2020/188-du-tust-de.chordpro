@@ -3,13 +3,25 @@
 {language: de}
 {key: E}
 {tempo: 102}
-{comment: Tobi Wörner}
 
 {start_of_verse: Strophe 1}
 [E]Meine Seele sucht Heimat, mein Herz sucht Glück,
 [B]doch wo immer ich hingeh, geht's mal vor und mal zurück,
 [A]ich sehn mich nach Frieden, was ich auch [B]tu, am Ziel meiner Suche stehst du.
 {end_of_verse}
+
+{comment: Nach Strophe 1 und 2}
+[E]Mein Freudeschenker, mein Heimatgeber,
+[B]mein Glücklichmacher und mein Schuldvergeber,
+[A/C#]mein Friedensbringer und mein Worteinhalter,
+[B]mein Liebesspender bist du.
+
+{start_of_chorus}
+[E]Du tust im Innern meiner [B/E]Seele gut, und
+[A]du tust, was Balsam auf den [B]Wunden tut,
+[C#m]und du suchst mich, wenn ich mich in mir ver[B]lier,
+[A]in mir ver[B]lier.
+{end_of_chorus}
 
 {start_of_verse: Strophe 2}
 [E]Meine Sehnsucht nach Liebe ist täglich da,

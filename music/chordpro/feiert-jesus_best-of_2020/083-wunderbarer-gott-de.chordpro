@@ -4,6 +4,7 @@
 {key: A}
 {time: 4/4}
 {tempo: 62}
+
 {comment: Strophe 1}
 Du bist ein [Dmaj7]wunderbarer Gott. [A]Du bist mein
 [Dmaj7]Hirte und mein Tröster. [A]Du bist ein [Dmaj7]wunderbarer Freund.
@@ -24,4 +25,12 @@ Du bist mein [Dmaj7]wunderbarer Jesus. [A]Du bist der
 [Dmaj7]Fels, auf den ich bau. [A]Du bist mein [Dmaj7]wunderbarer König,
 [A]dem ich mein [Dmaj7]Leben anvertrau. [A]Wir [F#m]zwei
 {comment: Weiter bei „gehören zusammen“; Refrain bis „wunderbar bist du“.}
-{comment: Text und Melodie: Timo Langner. Quelle: S. 148–149.}
+
+{comment: Refrain}
+Ein wunderbarer Gott bist [A]du, ich sing zu dir, ich ruf [D]dir zu:
+Heilig, schön und [F#m]königlich, wunderbar bist du.
+[E]Wunderbarer Gott, ich [A]weiß: Das ganze Univer[D]sum
+preist die Größe deiner [F#m]Herrlichkeit. Wunderbar bist du,
+[E]wunderbar bist [Dmaj7]du.
+
+{comment: Text und Melodie: Timo Langner. }

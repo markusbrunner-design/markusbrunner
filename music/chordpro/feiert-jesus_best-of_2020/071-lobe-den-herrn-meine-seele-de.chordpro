@@ -2,7 +2,7 @@
 {song_number: 71}
 {language: de}
 {tempo: 62}
-{comment: Ablauf: Refrain 1, Refrain 2, Strophen 1–4 jeweils mit Refrain; Schluss auf Refrain 2.}
+{comment: Text nach Psalm 103; Text und Melodie: Norbert Kissel.}
 
 {start_of_chorus: Refrain 1}
 [F]Lobe den Herrn, meine [Gm]Seele, und [C7]seinen heiligen [Bb]Na[F]men.
@@ -16,17 +16,56 @@
 
 {comment: Strophe 1}
 [Am]Der meine Sünden vergeben hat, [Esus4]der [E]mich von [E7]Krankheit gesund gemacht,
+[Am]den will ich [Dm7]preisen mit [G7]Psalmen und [C]Weisen, von [Fmaj7]Herzen ihm [Bb]ewiglich [Gm7]singen: [Csus4][C]
+
+{start_of_chorus: Refrain 1}
+[F]Lobe den Herrn, meine [Gm]Seele, und [C7]seinen heiligen [Bb]Na[F]men.
+[F]Was er dir Gutes getan [Gm]hat, [C7]Seele, vergiss es nicht, [Bb]A[F]men.
+{end_of_chorus}
+
+{start_of_chorus: Refrain 2}
+[F]Lobe, [Gm]lobe den Herrn, [C7]lobe den Herrn, meine [Bb]See[F]le.
+[F]Lobe, [Gm]lobe den Herrn, [C7]lobe den Herrn, meine [Bb]See[F]le.
+{end_of_chorus}
 
 {comment: Strophe 2}
 [Am]der mich im Leiden getröstet hat, [Esus4]der [E]meinen [E7]Mund wieder fröhlich macht,
+[Am]den will ich [Dm7]preisen mit [G7]Psalmen und [C]Weisen, von [Fmaj7]Herzen ihm [Bb]ewiglich [Gm7]singen: [Csus4][C]
+
+{start_of_chorus: Refrain 1}
+[F]Lobe den Herrn, meine [Gm]Seele, und [C7]seinen heiligen [Bb]Na[F]men.
+[F]Was er dir Gutes getan [Gm]hat, [C7]Seele, vergiss es nicht, [Bb]A[F]men.
+{end_of_chorus}
+
+{start_of_chorus: Refrain 2}
+[F]Lobe, [Gm]lobe den Herrn, [C7]lobe den Herrn, meine [Bb]See[F]le.
+[F]Lobe, [Gm]lobe den Herrn, [C7]lobe den Herrn, meine [Bb]See[F]le.
+{end_of_chorus}
 
 {comment: Strophe 3}
 [Am]der mich vom Tode errettet hat, [Esus4]der [E]mich be[E7]hütet bei Tag und Nacht,
+[Am]den will ich [Dm7]preisen mit [G7]Psalmen und [C]Weisen, von [Fmaj7]Herzen ihm [Bb]ewiglich [Gm7]singen: [Csus4][C]
+
+{start_of_chorus: Refrain 1}
+[F]Lobe den Herrn, meine [Gm]Seele, und [C7]seinen heiligen [Bb]Na[F]men.
+[F]Was er dir Gutes getan [Gm]hat, [C7]Seele, vergiss es nicht, [Bb]A[F]men.
+{end_of_chorus}
+
+{start_of_chorus: Refrain 2}
+[F]Lobe, [Gm]lobe den Herrn, [C7]lobe den Herrn, meine [Bb]See[F]le.
+[F]Lobe, [Gm]lobe den Herrn, [C7]lobe den Herrn, meine [Bb]See[F]le.
+{end_of_chorus}
 
 {comment: Strophe 4}
 [Am]der Erd und Himmel zusammenhält, [Esus4]unter [E]sein gött[E7]liches Jawort stellt,
-
-{comment: Nach jeder Strophe:}
 [Am]den will ich [Dm7]preisen mit [G7]Psalmen und [C]Weisen, von [Fmaj7]Herzen ihm [Bb]ewiglich [Gm7]singen: [Csus4][C]
 
-{comment: Text nach Psalm 103; Text und Melodie: Norbert Kissel.}
+{start_of_chorus: Refrain 1}
+[F]Lobe den Herrn, meine [Gm]Seele, und [C7]seinen heiligen [Bb]Na[F]men.
+[F]Was er dir Gutes getan [Gm]hat, [C7]Seele, vergiss es nicht, [Bb]A[F]men.
+{end_of_chorus}
+
+{start_of_chorus: Refrain 2}
+[F]Lobe, [Gm]lobe den Herrn, [C7]lobe den Herrn, meine [Bb]See[F]le.
+[F]Lobe, [Gm]lobe den Herrn, [C7]lobe den Herrn, meine [Bb]See[F]le.
+{end_of_chorus}

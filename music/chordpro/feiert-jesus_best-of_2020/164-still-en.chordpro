@@ -2,12 +2,18 @@
 {song_number: 164}
 {language: en}
 {tempo: 70}
-{comment: Reuben Morgan}
 
 {start_of_verse: 1}
 [C]Hide me [G]now [Am]under Your [F]wings.
 [Gsus4]Cover [C]me [F]within Your [Dm7]mighty [G]hand.
 {end_of_verse}
+
+{start_of_chorus}
+When the [C]oceans [F]rise and thunders [G]roar,
+[Csus4]I will [C]soar with [F]You a[G]bove the [Am]storm.
+[C]Father, [F]You are King [G]over the [Am]flood;
+I [G]will be still [F]and know [G]You are [C]God.
+{end_of_chorus}
 
 {start_of_verse: 2}
 [C]Find [G]rest my [Am]soul in Christ a[F]lone.

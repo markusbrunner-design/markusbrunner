@@ -3,6 +3,7 @@
 {tempo: 74}
 {time: 4/4}
 {key: D}
+
 {comment: Strophe 1}
 [D]Ich hab gewartet [F#m]und gewacht.
 [D]Ich fliehe alles, [F#m]was mich hält.
@@ -11,6 +12,13 @@
 [D]ich will dich sehn, [F#m7]ich will dich [Bm]sehn.
 [Em]Und aller Reichtum [D/F#]ist wie [A]Sand
 [Em]vor dieser Schönheit, [D/F#]die ich [A]fand.
+
+{start_of_chorus}
+Ich hab noch [Bm]nie eine Liebe wie die [G]deine gefunden. [A]
+[Bm]Nichts kann mich trösten wie ein [G]Blick von [D/A]dir. [A]
+[Bm]Stiller Begleiter [G]meiner einsamen [D]Stunden,
+[A]Freund [G]bist du [D]mir.
+{end_of_chorus}
 
 {comment: Strophe 2}
 [D]Ich warte auf den [F#m]Morgenstern,
@@ -33,5 +41,12 @@ So lass mein [D]Herz schmelzen wie [F#m]Wachs
 unter dem Blick [Bm]deiner [G]Liebe.
 Lass mein [D]Herz schmelzen wie [F#m]Wachs
 unter dem Blick [Bm]deiner [G]Liebe.
+
+{start_of_chorus}
+Ich hab noch [Bm]nie eine Liebe wie die [G]deine gefunden. [A]
+[Bm]Nichts kann mich trösten wie ein [G]Blick von [D/A]dir. [A]
+[Bm]Stiller Begleiter [G]meiner einsamen [D]Stunden,
+[A]Freund [G]bist du [D]mir.
+{end_of_chorus}
 
 {comment: Text: Johannes Hartl; Melodie: Johannes Hartl, Dietmar Kramlich · © 2001 Gebetshaus Augsburg}

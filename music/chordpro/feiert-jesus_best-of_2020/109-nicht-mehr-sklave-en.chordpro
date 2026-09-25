@@ -3,12 +3,17 @@
 {language: en}
 {tempo: 74}
 {artist: Brian Johnson, Joel Case und Jonathan David Helser; Deutsch: Klaus Osigus}
-{comment: English text printed alongside the German in the source PDF.}
 
 {comment: Verse 1 - English lyrics printed in source PDF}
 [E]You unravel me with a melody.
 [A]You surround me with a [B]song [E]of deliverance
 from my enemies till all [A]my fears [B]are gone. [E]
+
+{comment: Chorus}
+[A]I'm no longer a [B]slave to fear;
+[E]I [C#m]am a [B]child of God. [E]
+[A]I'm no longer a [B]slave to fear;
+[E]I [C#m]am a [B]child of God. [C#m][B][E]
 
 {comment: Verse 2 - English lyrics printed in source PDF}
 [E]From my Mother's womb You have chosen me;
@@ -27,3 +32,9 @@ into Your family; [A]Your blood flows [B]through my veins. [E]
 [C#m]You rescued me so [B]I could [E]stand and [G#m]sing:
 [A]I am a [B]child of God. [E]
 [A]I am a [B]child of God. [E]
+
+{comment: Chorus}
+[A]I'm no longer a [B]slave to fear;
+[E]I [C#m]am a [B]child of God. [E]
+[A]I'm no longer a [B]slave to fear;
+[E]I [C#m]am a [B]child of God. [C#m][B][E]

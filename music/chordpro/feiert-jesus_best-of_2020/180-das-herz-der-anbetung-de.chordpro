@@ -3,11 +3,25 @@
 {tempo: 70}
 {time: 4/4}
 {key: D}
+
 {comment: Strophe 1}
 [D]Die Musik verhallt, [A]alles ist ganz still.
 [Em7]Ich bin einfach da. [A]
 [D]Was kann ich tun? [A]Wertvoll soll es sein,
 [Em7]dass sich dein Herz [Asus4]freut. [A]
+
+{comment: Vorrefrain (nach jeder Strophe)}
+[Em7]Ich bring dir mehr als ein [D/F#]Lied, [Asus4]denn ein Lied nur an sich
+[Em7]ist nicht, wonach du dich [D/F#]sehnst. [Asus4][A]
+[Em7]Du suchst viel tiefer in [D/F#]mir, [Asus4]durch den äußeren [D/F#]Schein
+[Em7]siehst du mitten ins [D/F#]Herz. [Asus4][A]
+
+{start_of_chorus}
+[D]Ich kehr zurück zu dem Herz [A/C#]der Anbetung, es geht
+[Em7]nur um dich, [G]nur um dich, [Asus4]Jesus.
+[D]Es tut mir leid, was ich daraus [A/C#]gemacht hab, es geht
+[Em7]nur um dich, [G]nur um dich, [A7sus4]Jesus. [D]
+{end_of_chorus}
 
 {comment: Strophe 2}
 [D]Herr der Herrlichkeit, [A]wir verstehn es nicht,

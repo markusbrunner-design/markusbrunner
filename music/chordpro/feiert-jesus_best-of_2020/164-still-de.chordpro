@@ -2,12 +2,18 @@
 {song_number: 164}
 {language: de}
 {tempo: 70}
-{comment: Reuben Morgan; Deutsch: Winnie Schweitzer}
 
 {start_of_verse: 1}
 [C]Berge [G]mich [Am]in deinem [F]Arm.
 [Gsus4]Schütze [C]mich [F]mit deiner [Dm7]starken [G]Hand.
 {end_of_verse}
+
+{start_of_chorus}
+Wenn die [C]Meere [F]toben, Stürme [G]wehn,
+[Csus4]werd ich [C]mit dir [F]übers [G]Wasser [Am]gehn.
+[C]Du bist [F]König über [G]Wind und [Am]Flut,
+mein [G]Herz wird still, [F]denn du [G]bist [C]gut.
+{end_of_chorus}
 
 {start_of_verse: 2}
 [C]Komm, ruh dich [G]aus [Am]bei deinem [F]Gott.

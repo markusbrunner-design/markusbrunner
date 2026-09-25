@@ -2,7 +2,6 @@
 {song_number: 169}
 {language: de}
 {tempo: 68}
-{comment: Martin Smith und Stuart Garrard; Deutsch: Chris Halmen, Jonny Pechstein, Tobi Wegschaider und Michus Thummert}
 
 {start_of_verse: 1}
 [F#m]Hier [E]bin ich, [Dmaj7]klein vor deiner [A]Herrlichkeit.
@@ -10,6 +9,15 @@
 [F#m]Hier [E]bin ich, [Dmaj7]kenne meine [A]Sünde gut,
 [Dmaj7]doch du [A]machst mich rein [E]durch dein Blut.
 {end_of_verse}
+
+{start_of_chorus}
+[A]Majestät, [E]Majestät,
+[D]ich bin, wie deine [A]Gnade mich fand: [E]leer und
+[F#m]dennoch leb ich in deiner [D]Hand.
+[A]Majestät, [E]Majestät,
+[D]verändert [A]bin ich für alle Zeit [E]in der
+[F#m]Nähe deiner Herrlichkeit, [Dmaj7]Majestät.
+{end_of_chorus}
 
 {start_of_verse: 2}
 [F#m]Hier [E]bin ich, [Dmaj7]demütig, weil [A]du mich liebst.
